@@ -1,6 +1,36 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/botanical-pots.pw.toml"
+hash = "cb30af4266aff390ff2b721a194c01baff5fb060807e50a02d945bdbdafb9346"
+metafile = true
+
+[[files]]
+file = "mods/clean-f3.pw.toml"
+hash = "b5af3194d6df56cc66492a178625a37947027a7d761eb29153f33869508a6863"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "f605331d864b266407b9d4486a4355febbc80b5e2e6ef75e4d92d45d2b29bc8f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "3039ab6ea60a5424d3b7d31f8fbfe16d3988b9a0bb7c670ba949743f63695ebd"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "b9315485edf9afc7934690bd4391c8b551e4d3816f094c77352dfec956f40b63"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "bccd06a5e9fee3d41ceb1c3746619be49182cc5be4fa9ea271158245e91f5061"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "4b7c266cf6c560aec780394f515cbe880c72fb07286f60694823fde3b926f184"
 metafile = true
