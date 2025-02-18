@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "318519c3574871766c6dc32c0748a899d3b928666d1ed94bf0861ec90507cac0"
+metafile = true
+
+[[files]]
+file = "mods/animal_feeding_trough.pw.toml"
+hash = "f232148772e6623931b6c20a71dc782125130d317de2f3808f2ce549430444fb"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "4172111cfbba541329bb83b5e713ba394a3cd4f801bcc631d5e4e35e0dea2db1"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
 metafile = true
@@ -8,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "579a364f88711a176a6c1509dce5058ec08ce8867620a23564ac7289dbe81808"
+metafile = true
+
+[[files]]
+file = "mods/better-beds.pw.toml"
+hash = "8ef7235675c71f938772fe5683b1b56cd952d3865a66cfd02dc8f3707d7f72b3"
 metafile = true
 
 [[files]]
@@ -31,6 +56,11 @@ hash = "cb30af4266aff390ff2b721a194c01baff5fb060807e50a02d945bdbdafb9346"
 metafile = true
 
 [[files]]
+file = "mods/cave-dust.pw.toml"
+hash = "a693ae12574e53fa67276c048d8541ab42d046d2517a515ea18e31c697c970c4"
+metafile = true
+
+[[files]]
 file = "mods/clean-f3.pw.toml"
 hash = "b5af3194d6df56cc66492a178625a37947027a7d761eb29153f33869508a6863"
 metafile = true
@@ -51,6 +81,11 @@ hash = "7986f751d84536043edd1e67178554f6d4c3f01409feae6c151afa7854db5fa2"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "4f37da86319d0c1a5f3f222d30b23798ac1e07ae773caf91f0a8b1f89577fc3f"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "f605331d864b266407b9d4486a4355febbc80b5e2e6ef75e4d92d45d2b29bc8f"
 metafile = true
@@ -58,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ef5594aca1039c06c502f9d3f4a709195b727abb3b2893652dfe38d983ff87c2"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "7994561d79a0df40caf462bdbd7974ffa4f90bf0c69f4d8aae43b89b33258ad3"
 metafile = true
 
 [[files]]
@@ -88,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "7bd635c7e8d673a0eb043d6837db2423d7a79ab1c8673c1cf3e12508989f40a5"
 metafile = true
 
 [[files]]
@@ -126,6 +171,16 @@ hash = "e5bc55a3cb64edaca0c379894b8715111aafd81057609942672b945974fbaf6b"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "b1a2966fb0a1a546ea5d626af4b8067e31ece008f03af961a0a795d243d9f783"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "9752dfb3a2284f00d64d338df2d740e5c55bfcd4eb1aa7819fd9915a007468ef"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "81ea6ca456261caaf5df55f5e5ba0dfbf04e9daf23cd93e00c35cec4d3fb27b3"
 metafile = true
@@ -161,6 +216,11 @@ hash = "ab67da9e3ec06c7cc38dc673629ce04e287cb5e67baad18f7ea419a3e4fe8e2d"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "85ae542e2ccfb61bcdd3aa55b1a56436782687ba63388e249cb98376737045d4"
 metafile = true
@@ -176,6 +236,11 @@ hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "7c3b837a412d70d43414a5b296340dce9ebf97de84cc5c898c5d744ecc323b0b"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "361de3c60e8a8f7d4e0d05542f6589e1bd0983498c68f0b86a82f93fc441923b"
 metafile = true
@@ -183,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "2e7120b397729e0c5d11c8250cb504ea622340474cef9a93629e22c02251a221"
 metafile = true
 
 [[files]]
@@ -203,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "bccd06a5e9fee3d41ceb1c3746619be49182cc5be4fa9ea271158245e91f5061"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "735fda3406823ac4001cd2ff295c6197aed8d3804252c8e5e763456d634762c4"
 metafile = true
 
 [[files]]
