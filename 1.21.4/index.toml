@@ -16,13 +16,38 @@ hash = "f605331d864b266407b9d4486a4355febbc80b5e2e6ef75e4d92d45d2b29bc8f"
 metafile = true
 
 [[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "46b4f7c152db006c76e6ae2e7e470dee6f74cd9a1ce83feb3d18bae63b2d9e6d"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "3039ab6ea60a5424d3b7d31f8fbfe16d3988b9a0bb7c670ba949743f63695ebd"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "4b257578b2973f4e99ae3192989f7ba4db19e9eca99ea396a1479c8a6cd9ca88"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "81ea6ca456261caaf5df55f5e5ba0dfbf04e9daf23cd93e00c35cec4d3fb27b3"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "b9315485edf9afc7934690bd4391c8b551e4d3816f094c77352dfec956f40b63"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "361de3c60e8a8f7d4e0d05542f6589e1bd0983498c68f0b86a82f93fc441923b"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "0a6fccc10af5a38576a0bb21944403a64a498abdad8b067978c632e69a3e5ab7"
 metafile = true
 
 [[files]]
