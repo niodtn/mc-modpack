@@ -1,0 +1,13 @@
+name = "Niodtn's Modpack 1.21.4"
+author = "Niodtn"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "73c41567782adef3a21af6e9d88573ab18d561adcd631288c8cb5b3cd4e9a745"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.4"
