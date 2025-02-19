@@ -1,0 +1,13 @@
+name = "Wooden Hopper"
+filename = "woodenhopper-fabric-1.21.4-3.4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VOUy9bAs/versions/VjQMmf4Z/woodenhopper-fabric-1.21.4-3.4.0.0.jar"
+hash-format = "sha512"
+hash = "7f0d944b11333816a33d649433166a9b44dea6f375d8bb8aa7acf788870c237ac93a963fe4f43e780771042d205c097913d688e7f36fcfbeb3704cbbba9dd503"
+
+[update]
+[update.modrinth]
+mod-id = "VOUy9bAs"
+version = "VjQMmf4Z"

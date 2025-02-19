@@ -171,6 +171,11 @@ hash = "e5bc55a3cb64edaca0c379894b8715111aafd81057609942672b945974fbaf6b"
 metafile = true
 
 [[files]]
+file = "mods/itemlocks.pw.toml"
+hash = "050c9ef026965c78d08e94beeab0a70dbfda20546b1acb6331cc87d661f800c9"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "b1a2966fb0a1a546ea5d626af4b8067e31ece008f03af961a0a795d243d9f783"
 metafile = true
@@ -298,6 +303,16 @@ metafile = true
 [[files]]
 file = "mods/village-spawn-point.pw.toml"
 hash = "1e365088830e9ff4202a1ec71b51bd795a32565c11d3291bab2950b5a7249f18"
+metafile = true
+
+[[files]]
+file = "mods/villager-in-a-bucket.pw.toml"
+hash = "88b5bcef60386b4392f02ebeb62dfc148b6d3f84821b1cc99981ea04e7fb1fb0"
+metafile = true
+
+[[files]]
+file = "mods/wooden-hopper.pw.toml"
+hash = "ca80f25e3a5b43b10ff4a0c070d229b98934379b59a705af95c272d98864e491"
 metafile = true
 
 [[files]]
