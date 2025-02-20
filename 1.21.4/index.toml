@@ -161,6 +161,11 @@ hash = "019e905a77a36666e4b0d14f9cb1177638b830747c9671098bb76d4818d45c14"
 metafile = true
 
 [[files]]
+file = "mods/grind-enchantments.pw.toml"
+hash = "c0655ac3357a9223ea424ab58bc62e397e4a03e138ace4fd95f30aae07ae62a7"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "c7acf68591c9e2e380d2fa7f01bd3b8f37a9e91ee53c59e043c4189a86c162a9"
 metafile = true
