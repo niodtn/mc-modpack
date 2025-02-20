@@ -1,0 +1,13 @@
+name = "Metal Bundles"
+filename = "MetalBundles-v21.4.0-1.21.4-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6pY6oEMg/versions/2xAYIaFy/MetalBundles-v21.4.0-1.21.4-Fabric.jar"
+hash-format = "sha512"
+hash = "58bb8f031555d73bfcf40b00d0fd43dbe9c510cb090e305f1291f822e009b504ed73221c0d0fcbab49fa145a2a08f80d66cebaf35b22cf7150b0c64b11519f0e"
+
+[update]
+[update.modrinth]
+mod-id = "6pY6oEMg"
+version = "2xAYIaFy"

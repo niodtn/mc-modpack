@@ -196,6 +196,11 @@ hash = "97697e194c4e9742501485140b71b4104b857f27bd34446816fd55e4ec486e2c"
 metafile = true
 
 [[files]]
+file = "mods/metal-bundles.pw.toml"
+hash = "c19b6ca8770709c67e2f5412065729b02f8562cd97f476e1d814cc6ef81e4f90"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "b9315485edf9afc7934690bd4391c8b551e4d3816f094c77352dfec956f40b63"
 metafile = true
