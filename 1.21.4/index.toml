@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4172111cfbba541329bb83b5e713ba394a3cd4f801bcc631d5e4e35e0dea2db1"
+hash = "848c49f2ead5e1e71d7be95d2d9e1cb992631faf91500b9c59e72d61afca33fd"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "579a364f88711a176a6c1509dce5058ec08ce8867620a23564ac7289dbe81808"
+hash = "1684387f4ee3f54531891837e612435e0dcb5ae18954edca0b74518aa5d3d898"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "778dc597f00b39554234b91c15eb90aa86914cb3e9bf30d5136d896c5ae5017f"
+hash = "240a276ed43c09c0fcc459e19f53a67f46fe8934029beba8a3f5caffc5fdcee7"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "ef5594aca1039c06c502f9d3f4a709195b727abb3b2893652dfe38d983ff87c2"
+hash = "1c5399af6c0eb9c5239862272f5d221674a58df667c583c87b234d351070554d"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "f4070441d1f1bdeb3e6a594b5ba1c3f314b8f13815a67619cb38621c0f6a1fec"
+hash = "97697e194c4e9742501485140b71b4104b857f27bd34446816fd55e4ec486e2c"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "361de3c60e8a8f7d4e0d05542f6589e1bd0983498c68f0b86a82f93fc441923b"
+hash = "0db8817bb16f66a47e22a3ad2a3c07e2be251c15209e29d16fe8a21140a8a40a"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "bccd06a5e9fee3d41ceb1c3746619be49182cc5be4fa9ea271158245e91f5061"
+hash = "d6ff2d13b8fec782d3a55207c90470591fd5aa36d4fab3562f8334a66cab60ab"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/trade-cycling.pw.toml"
-hash = "88d52b57925c83dd166be0612f8ba2389c5cc902833eb8f6cafe4d52a1c565dd"
+hash = "f55fa4d61a7acab74ce319e8873961900aa792ba4e2a2fa9fd6b471eb700f3a7"
 metafile = true
 
 [[files]]
