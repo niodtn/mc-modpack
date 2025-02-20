@@ -11,6 +11,11 @@ hash = "f232148772e6623931b6c20a71dc782125130d317de2f3808f2ce549430444fb"
 metafile = true
 
 [[files]]
+file = "mods/anvil-restoration.pw.toml"
+hash = "a5aaa4d7964fdb3957862c822b0f3321c122330771a7fea001c527bf3df3b290"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
 metafile = true
@@ -141,6 +146,11 @@ hash = "08114da8c86093301d6b6e07349709395599c4731626058a27a5395dd6369ff4"
 metafile = true
 
 [[files]]
+file = "mods/fixed-anvil-repair-cost.pw.toml"
+hash = "0fe9c706dae3362e0d7bbd5d7cc7759ac19959c1c57cf956d9d701cbe3660b8f"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "4b257578b2973f4e99ae3192989f7ba4db19e9eca99ea396a1479c8a6cd9ca88"
 metafile = true
@@ -188,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "b9315485edf9afc7934690bd4391c8b551e4d3816f094c77352dfec956f40b63"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-cursor.pw.toml"
+hash = "4cb410b01d345c4cda88c90b395d127a7775d2dfb70a6c4a5f061434887b7380"
 metafile = true
 
 [[files]]
@@ -283,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "735fda3406823ac4001cd2ff295c6197aed8d3804252c8e5e763456d634762c4"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "573c5deb0e6059578f95d189883ac4c119869e90f75f3f31e0f4224b087f15af"
 metafile = true
 
 [[files]]

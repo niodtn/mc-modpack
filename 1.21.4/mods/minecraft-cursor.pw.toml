@@ -1,0 +1,13 @@
+name = "Minecraft Cursor"
+filename = "minecraft-cursor-3.3.0+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/o5fhgLeQ/versions/xrGUJueW/minecraft-cursor-3.3.0%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "0518285bc30852e2038a4e9f8c66d579e1f6a9a08e8e328c49d4306976d7f408241a3230f4be678fdd217e2c1252c0b2ab659d3529ab7ec4a0bf5ddafe17f7ce"
+
+[update]
+[update.modrinth]
+mod-id = "o5fhgLeQ"
+version = "xrGUJueW"
