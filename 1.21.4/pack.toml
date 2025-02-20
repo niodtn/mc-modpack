@@ -1,12 +1,12 @@
 name = "Niodtn's Modpack 1.21.4"
 author = "Niodtn"
-version = "1.2.1"
+version = "1.2.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "87e076844192517f495dae47a7e0099e344bef96240bf3b4d0de5e9a1d482648"
+hash = "ccc117739f5a48d13d62c3ffc7cbb1cd6ccd2808149013fb2e5d51393cbd24c9"
 
 [versions]
 fabric = "0.16.10"
