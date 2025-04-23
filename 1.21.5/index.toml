@@ -1,0 +1,51 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/clean-f3.pw.toml"
+hash = "b5af3194d6df56cc66492a178625a37947027a7d761eb29153f33869508a6863"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "847dce2251028733f139692907e89466896dc6ca35cfcc1bdaa0ec1f02aebefb"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "6776faa0af7b67803be2671ebc8c8d25f3ebbdb498cf7457b8bf6baea65a5f9b"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "9645ea203dba3249733227c91020016893ca223c2dbef81172560cd322603c10"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "12d88ff814663555fb216d47884a166374a76210ea7c75814daa6e897203abbf"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "af10334d5cb965e4255f864d8fe2c3bad90e571492bf61fd84fb55c9a9506d59"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "77c1125246a7662f4674018015a8c67152af405b7a3abe9cb249ebb36a264ea5"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "de1498c79d273e662b36414ccd2716c1b904d70347df613bf6e8d09d3f52123f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "07d2a07067af1330cda2f153bf753dd2dea151062be830acb74b6a39a308fe60"
+metafile = true
