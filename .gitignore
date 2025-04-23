@@ -1,3 +1,6 @@
 # packwiz
 export/
 **/*.mrpack
+
+# Aider
+.aider.*
