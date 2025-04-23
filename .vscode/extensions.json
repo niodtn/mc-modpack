@@ -1,7 +1,6 @@
 {
-    "recommendations": [
-        "ms-vscode.makefile-tools",
-        "davidanson.vscode-markdownlint",
-        "esbenp.prettier-vscode"
-    ]
+  "recommendations": [
+    "davidanson.vscode-markdownlint",
+    "nefrob.vscode-just-syntax"
+  ]
 }
