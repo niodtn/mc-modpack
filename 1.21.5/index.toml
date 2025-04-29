@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "ed65ad0e3043b3ec64bef2a1f2f40d5f04b2ab45ec862789f622f78057bb02b3"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "b727a1a00420f7100a7b8e1063663f7e88b74e249d25968c0b01e2ebcfb4c935"
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
 metafile = true
