@@ -1,0 +1,6 @@
+version:4325
+enableVsync:false
+narrator:0
+fov:0.5
+gamma:1.0
+guiScale:4

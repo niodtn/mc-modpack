@@ -1,0 +1,13 @@
+name = "Mountain"
+author = "Niodtn"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cd51e96e094cf3bfbaebec2270e5a2326bf861e47431df608288822b756bec08"
+
+[versions]
+minecraft = "1.21.5"
+neoforge = "21.5.63-beta"

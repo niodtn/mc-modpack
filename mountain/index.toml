@@ -1,0 +1,5 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/options.txt"
+hash = "ed98d41a984f2a3c9bfc139e75030eaca4f21bc2f262bb8f4e201175491f4402"
