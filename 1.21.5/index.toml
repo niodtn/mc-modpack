@@ -1,8 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
+metafile = true
+
+[[files]]
+file = "mods/bbrb.pw.toml"
+hash = "d3e067134ecb835b1a02e6f10666033d71ac017a21f17b3a5efeca756482642a"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "97947febb0df8ed3c2e419e0bf8cb8ad2aae0ffee225bf2a2ee337a5b9401fa6"
+metafile = true
+
+[[files]]
 file = "mods/clean-f3.pw.toml"
 hash = "b5af3194d6df56cc66492a178625a37947027a7d761eb29153f33869508a6863"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
 metafile = true
 
 [[files]]
@@ -26,8 +46,13 @@ hash = "9645ea203dba3249733227c91020016893ca223c2dbef81172560cd322603c10"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "138e20f1257a5fed553a89c8701a5c15f22986a2e8b77c87bea3eafa59995920"
+metafile = true
+
+[[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "06a6eb5eb9e1ccd8d9047617152f082a53a63f46a3ef9ca7fc34735a80d4848d"
+hash = "5536b1728eae600a820193a94f00ca54c8ee55e46c7d62f76362ba7bf40e7465"
 metafile = true
 
 [[files]]
@@ -41,8 +66,23 @@ hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "af10334d5cb965e4255f864d8fe2c3bad90e571492bf61fd84fb55c9a9506d59"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "27a03591c0d4c9f630c23828a3b3506e3d67635e2c7dbed2fe67aa1b03e52351"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
 metafile = true
 
 [[files]]
@@ -51,8 +91,18 @@ hash = "623f91f5cb2cfe0e7c3a6fc48ae5984dfad62e85389e2567ab5421f7d9d02c51"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "e26dacab5ed497b7bf6500e389eba5e21cd4b9d7b38089045cd26818a4d2f589"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "9ec22a69da98cef889829ee289c8c08bff2b26c181eebd1303cd35a7ecc102f4"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
 metafile = true
 
 [[files]]
@@ -71,13 +121,23 @@ hash = "e48fadea92533a14b45d8fb64ed10e5942ee90bba874589822a766a6d47930b2"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "f08109925ea37a67f4fe60eb44a0bbed52a8a14b9ee56da7173f8116363826b3"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml"
+hash = "35806b3163ce2405e55abcda320300fa7a133f2f67ad453c7d3631d68a5ba0e2"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "764bd77698a443694f79bf744611890efd85cc8f1e59f16786879060d5bf92e3"
+hash = "37d94eccb60749412f669a737642a603eb549225c9a49c45320a0ca097dfc513"
 metafile = true
 
 [[files]]
@@ -96,13 +156,33 @@ hash = "298bc1610cfe67d645582babb847d195a6bf69d8819171124f046d6d51f2f1e1"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "3975d8351b1a246c8c2e13251ea4f86fee525ae772a51927c37407a88b03defb"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "f4ed28d8b0a88eb80a17b3ff6518402973060ce2f802daab5971fc26a79199db"
 metafile = true
 
 [[files]]
+file = "mods/smooth-scroll.pw.toml"
+hash = "c2dbf59c31a43c2364a553b28ebd8b0cbfbdeb21e051aec32266d3debc2faab8"
+metafile = true
+
+[[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "5d3bebce6f3214981dd5ce7db03b34d5901a2cd861bcd1b4b2fd035a19a562b7"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "abe9878dcb237d56e2ba70c17db8c721c6c2b8e62b241bc333539d5bc6be938f"
+metafile = true
+
+[[files]]
+file = "mods/sodium-fullbright.pw.toml"
+hash = "a0e206f86721e424f917ae72071b52a37f7b6c65d4772c21e83a1f1b83616f6a"
 metafile = true
 
 [[files]]
@@ -122,10 +202,10 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "b90b25b61edd0dfe3bb3074e2343351c7a427d24bb1fa42c642a157b0fd887e4"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "fd18eb54847fd18feba9db1e9960c741cdaa6083c984773f8f79ae22182fad76"
+hash = "9025311f42fe8ab581987962c9c6b3ec5a50f5afc803e9d867dc580cb0b66190"
 metafile = true
