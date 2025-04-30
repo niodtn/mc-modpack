@@ -1,1 +1,12 @@
-{ "extraconfig": { "reduce_resolution_on_mac": true } }
+{
+  "render_settings": {
+    "fog_distance": 33
+  },
+  "extra_settings": {
+    "reduce_resolution_on_mac": true,
+    "use_adaptive_sync": true,
+    "recipe_toast": false,
+    "system_toast": false,
+    "tutorial_toast": false
+  }
+}
