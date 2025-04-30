@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterf3.toml"
+hash = "501b7e77f9b1267c1cdd23785ad911befb3011e7b808ec4d072846dc58f1e617"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "b3f46555625c0d01ba4e9a41a0d5d96d2565091e246b3c29264abb4982bea4ad"
 
 [[files]]
 file = "config/sodium-options.json"
 hash = "10a31042812045555a31e39e0b7b815d808da8216d296acab12279bb950156e9"
+
+[[files]]
+file = "config/sodiumextras-client.toml"
+hash = "ebab0a25af409b1e0747c61713ee42a78f003524d4e4dfc9ec1ed31980ebe6c9"
 
 [[files]]
 file = "mods/betterf3.pw.toml"
