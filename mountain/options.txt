@@ -3,6 +3,7 @@ fov:0.5
 gamma:1.0
 narrator:0
 simulationDistance:8
+operatorItemsTab:true
 darkMojangStudiosBackground:true
 lang:ko_kr
 tutorialStep:none

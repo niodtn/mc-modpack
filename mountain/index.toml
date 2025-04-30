@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/betterf3.toml"
-hash = "501b7e77f9b1267c1cdd23785ad911befb3011e7b808ec4d072846dc58f1e617"
+hash = "312275e620037555a0761de78ca066e7d021559b911670d0aff6b20f1cbbda4f"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "e4390495164ff2de7ff0138c2e7ade2d809fac0fa5c7fcaf409d3de5be2aabe0"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -17,8 +21,28 @@ file = "config/sodiumextras-client.toml"
 hash = "ebab0a25af409b1e0747c61713ee42a78f003524d4e4dfc9ec1ed31980ebe6c9"
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "e1a69cd766b3151637a1a8d7f92325e780e34bc30df8ba0e81e21468542beaf3"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
+metafile = true
+
+[[files]]
+file = "mods/bbrb.pw.toml"
+hash = "d3e067134ecb835b1a02e6f10666033d71ac017a21f17b3a5efeca756482642a"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c27cf22afc84f193afd05fd705f7dd9f4499619ecc5cfb1815705af8d1ea3d00"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "7fc61e9b157f8c7b76bf2654bbc85c09dca38117052022844067be8b5555ed1b"
 metafile = true
 
 [[files]]
@@ -27,8 +51,63 @@ hash = "c3960a9aea11d9c0d8d5a683e79a0ddb5db0911104379f419b9a45162a30e820"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "766b6ecc10c69cd779fd3300c6df66f9abcd766b5a438a92be4cb0b43a624022"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "c63d74160e337597c5c5cd8b33146c7fbbe1763dc84277700cd016f7d1b51590"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "d625dee8c8ded8a31f4fda6ca14e418a15310d45c70e7a99f8f88a30f9c0bb13"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "a2ed0485aac733b06bbbea9ffe244955ed8cc16094c1c06a4c4f803f3d2a1546"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "7c6239fe970cd45a1f680493b9fceef6870afcfd2de72086bfef3f765bd3c4c6"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "2b6d6dd18816176024a92d5793b12ce3a62cd0c4b0cf31fc92bb59058444a303"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "8ba2732305bdea527683c649b03bbdcaa0f0c604c3e6b79241375797b838fa31"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "92e68043b49b84668c82665bf5c57718638263411cc9cce9dfe6c89ffeea6fc7"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "1388518270cbe8af608274617e2fd1073eed71bb2979ca6edb2de40de1a452c1"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "d38f1b2112b2f249a8e8f69bff5969bee4341754e0ae18a6facf62867331c70c"
 metafile = true
 
 [[files]]
@@ -58,4 +137,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7d43fe46175e3fd0eea33c9819371f7e08e246f3ac84fe229ccfdacb0ead635b"
+hash = "b3f6a8a2ba489685bf895b549abb3f7b9a7e0be3100ba28639c09beb8b5516b2"

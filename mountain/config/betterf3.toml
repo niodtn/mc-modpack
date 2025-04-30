@@ -21,7 +21,7 @@ general = {animations = false}
 	name = "server"
 	lines = {packets_sent = false, packets_received = false, tick_manager_status = false}
 	enabled = true
-[[modules_right]]
+[[modules_left]]
 	empty_lines = 1
 	name = "empty"
 	lines = {nothing = true}
@@ -29,6 +29,11 @@ general = {animations = false}
 [[modules_left]]
 	name = "coords"
 	lines = {absolute_velocity = false, velocity = false, horizontal_velocity = false}
+	enabled = true
+[[modules_left]]
+	empty_lines = 1
+	name = "empty"
+	lines = {nothing = true}
 	enabled = true
 [[modules_left]]
 	name = "location"
