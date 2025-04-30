@@ -31,6 +31,11 @@ hash = "f391c52372b1454b5ef9da55f0231354fddc102b0f38088f2d5ca45797f1e8f5"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ce27d4ae4d82eee89e616d19d13827205a2e26aed72a6f2e70bc409829603e01"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
 metafile = true
@@ -61,6 +66,11 @@ hash = "f49a623175a3b159fc729509bb99d83f3f9252fa3be0fd4b4976340e97cfbc0d"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-attack-indicator.pw.toml"
+hash = "9abae7d47055695ea6b42a1c9b382efa985a8e0f5457f3eb272601b7a21a4fe9"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "766b6ecc10c69cd779fd3300c6df66f9abcd766b5a438a92be4cb0b43a624022"
 metafile = true
@@ -68,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "c63d74160e337597c5c5cd8b33146c7fbbe1763dc84277700cd016f7d1b51590"
+metafile = true
+
+[[files]]
+file = "mods/fuel-info.pw.toml"
+hash = "622cae1ced7443d50ebf7d1d8e4321bbe73811697be2588a6c1a32b5620c120c"
 metafile = true
 
 [[files]]
@@ -101,8 +116,23 @@ hash = "8ba2732305bdea527683c649b03bbdcaa0f0c604c3e6b79241375797b838fa31"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "067fc7e22d2bf046c405e799cad9c94ac2b5a029c424eb24ece2292fab3b6235"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "bd28a3557e1d4d2026ac9d4f27e1405b3e23e9210f511064bb22cc6a155be817"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "92e68043b49b84668c82665bf5c57718638263411cc9cce9dfe6c89ffeea6fc7"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "d4debf3ae1f6047cfa6c42b07b8a3bb1bd007e4180b65384264ffe5b0ca2bb20"
 metafile = true
 
 [[files]]
@@ -148,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "28d42af024383f20c03391c7e2ab4d6487ae1d0f6571d00735b6b3b022bde779"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "353ccf6a3dee445320597a2c8ab1caac87717e433b4b784e5cba6602f60485d1"
 metafile = true
 
 [[files]]
