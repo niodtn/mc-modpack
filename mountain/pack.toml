@@ -1,12 +1,12 @@
 name = "Mountain"
 author = "Niodtn"
-version = "0.0.0"
+version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fc2a13194a87d194d0403e3b128a2b4a01a9697839061410ed92223843928a28"
+hash = "84236bf4656242141fb5017d56027b3db034a8e16f6ea0b067506b9c0ed97685"
 
 [versions]
 minecraft = "1.21.5"

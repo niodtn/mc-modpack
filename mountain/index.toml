@@ -1,5 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/sodium-extra-options.json"
+hash = "ba84daf0e8a5a89d053ba503161dfdf02b2c034bc24327a808f2276f64524340"
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "da8f21ca9c35c760444aaf6013d93801930bde6e530a8faef7f3c4946e4cc0ed"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "e8c6a0ba7e512020ee5461dfefbb1d6b15c2dd336e4084bbdb5b7facb65b923a"
+metafile = true
+
+[[files]]
 file = "options.txt"
-hash = "5f1177df12fafe6c35bd6470c59077a9541f864f948be631167bcc02c1f63204"
+hash = "11b3ce152952a94beaa43bbd6bef771583baa80345754f7b6f885ae050ca0564"
