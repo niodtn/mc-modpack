@@ -116,6 +116,11 @@ hash = "8ba2732305bdea527683c649b03bbdcaa0f0c604c3e6b79241375797b838fa31"
 metafile = true
 
 [[files]]
+file = "mods/moremousetweaks.pw.toml"
+hash = "b2e00c2c5271262dbac7fa3e424c12ff579d4559edc809b914b6f5be3c20d66c"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "067fc7e22d2bf046c405e799cad9c94ac2b5a029c424eb24ece2292fab3b6235"
 metafile = true
@@ -178,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "28d42af024383f20c03391c7e2ab4d6487ae1d0f6571d00735b6b3b022bde779"
+metafile = true
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "5a4a352f657df20b9e08db46c28ab37014c335a6ed034353ecd3ef386cd24bc3"
 metafile = true
 
 [[files]]

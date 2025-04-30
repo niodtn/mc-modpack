@@ -1,0 +1,13 @@
+name = "Tiny Item Animations"
+filename = "tia-neoforge-1.21.3-1.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wMkevcSR/versions/SqJ0sLGF/tia-neoforge-1.21.3-1.2.2.jar"
+hash-format = "sha512"
+hash = "9acf77f48c84f92c1381eafdf891bd633c3774144ad063cd441d7a606b84e4b1f15719dfe7b60a6ac084e6a7859bc6af5adc9eb28dddcd255fcd08f426c1cea3"
+
+[update]
+[update.modrinth]
+mod-id = "wMkevcSR"
+version = "SqJ0sLGF"

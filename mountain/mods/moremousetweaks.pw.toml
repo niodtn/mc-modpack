@@ -1,0 +1,13 @@
+name = "More Mouse Tweaks"
+filename = "moremousetweaks-neoforge-1.0.1+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S8drsznD/versions/A16TPytE/moremousetweaks-neoforge-1.0.1%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "ed76835b5b00330a05755932165c9359dca2c46c64182e131a6cbc5b5dc414c5b46044e6a530b3b9d3d5d466e1c3e412fba46b46ee4cf43d85badc11bdddaad4"
+
+[update]
+[update.modrinth]
+mod-id = "S8drsznD"
+version = "A16TPytE"
