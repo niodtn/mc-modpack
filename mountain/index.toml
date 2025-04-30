@@ -2,7 +2,21 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "ba84daf0e8a5a89d053ba503161dfdf02b2c034bc24327a808f2276f64524340"
+hash = "b3f46555625c0d01ba4e9a41a0d5d96d2565091e246b3c29264abb4982bea4ad"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "10a31042812045555a31e39e0b7b815d808da8216d296acab12279bb950156e9"
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "c27cf22afc84f193afd05fd705f7dd9f4499619ecc5cfb1815705af8d1ea3d00"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "c3960a9aea11d9c0d8d5a683e79a0ddb5db0911104379f419b9a45162a30e820"
+metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
@@ -10,8 +24,23 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "172c2e57324cede210a0f99e115dfa4a3779ddf6b1219a5caef22176c5793d20"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "da8f21ca9c35c760444aaf6013d93801930bde6e530a8faef7f3c4946e4cc0ed"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extras.pw.toml"
+hash = "2bbd5de450f8519960752cf232d9002e6f636eaa28c909e4c36e89a8564580d3"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "3e5fc2d09b6a2e4f452934e243dacad9f48d95d52497549be792bc720357cac5"
 metafile = true
 
 [[files]]
@@ -21,4 +50,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "11b3ce152952a94beaa43bbd6bef771583baa80345754f7b6f885ae050ca0564"
+hash = "7d43fe46175e3fd0eea33c9819371f7e08e246f3ac84fe229ccfdacb0ead635b"
