@@ -26,6 +26,11 @@ hash = "e1a69cd766b3151637a1a8d7f92325e780e34bc30df8ba0e81e21468542beaf3"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "f391c52372b1454b5ef9da55f0231354fddc102b0f38088f2d5ca45797f1e8f5"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
 metafile = true
@@ -48,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c3960a9aea11d9c0d8d5a683e79a0ddb5db0911104379f419b9a45162a30e820"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "f49a623175a3b159fc729509bb99d83f3f9252fa3be0fd4b4976340e97cfbc0d"
 metafile = true
 
 [[files]]
@@ -133,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "e8c6a0ba7e512020ee5461dfefbb1d6b15c2dd336e4084bbdb5b7facb65b923a"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "28d42af024383f20c03391c7e2ab4d6487ae1d0f6571d00735b6b3b022bde779"
 metafile = true
 
 [[files]]
