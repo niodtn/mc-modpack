@@ -13,6 +13,10 @@ file = "config/overflowingbars-client.toml"
 hash = "647e8c7033df591092c6b151882771d8d67b18f9cb288f76512a6d80fae601ed"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "03d0c590a4cdb7f891530f9a6b13d4e36567ff655f0b76e7dca8edb542400049"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "b3f46555625c0d01ba4e9a41a0d5d96d2565091e246b3c29264abb4982bea4ad"
 
@@ -272,6 +276,11 @@ hash = "b1128892a4e6789eade505db1186205873e576e4ecaea5402d892c52a369bccb"
 metafile = true
 
 [[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "60e41d7d2de8b6300fcd3e9d86bfac8922edbc7b2d659c6075911ddbc4829556"
+metafile = true
+
+[[files]]
 file = "mods/ui/better-advancements.pw.toml"
 hash = "046f810e1cf2fa0186c17f99255b421cb1cd3393e05f28487ae31ba5be784ed7"
 metafile = true
@@ -369,11 +378,6 @@ metafile = true
 [[files]]
 file = "mods/utility/mouse-tweaks.pw.toml"
 hash = "41ddb695776da2cf714699474ca9e6e3d61c9d68e6954ce680d54b648fce0622"
-metafile = true
-
-[[files]]
-file = "mods/utility/resourcify.pw.toml"
-hash = "0253bade3e74df27c138ac34dab26090c3fcc5c0a0986e9a14803bbd5229c97e"
 metafile = true
 
 [[files]]
