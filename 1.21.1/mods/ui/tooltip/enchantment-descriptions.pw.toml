@@ -1,5 +1,5 @@
 name = "Enchantment Descriptions"
-filename = "../enchdesc-fabric-1.21.1-21.1.7.jar"
+filename = "../../enchdesc-fabric-1.21.1-21.1.7.jar"
 side = "client"
 
 [download]

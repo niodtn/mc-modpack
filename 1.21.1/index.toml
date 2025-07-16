@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/immersivearmorhud-client.toml"
-hash = "e7f0552c09ce10c09d7790eb16738a07f6e7bf9d85c583b0937ccc9671763129"
-
-[[files]]
 file = "config/moreculling.toml"
 hash = "e4390495164ff2de7ff0138c2e7ade2d809fac0fa5c7fcaf409d3de5be2aabe0"
 
@@ -14,7 +10,7 @@ hash = "f884b31db4fe0fd311cc87fdd3cfc59d6566fb8d59f7655fad94820f9082438e"
 
 [[files]]
 file = "config/overflowingbars-client.toml"
-hash = "4fd90e87170cce6d0f8d00d73083dbc8d52440c154324d57dce36980a8b998bc"
+hash = "647e8c7033df591092c6b151882771d8d67b18f9cb288f76512a6d80fae601ed"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -116,6 +112,11 @@ hash = "f87e15c11c03c2548749a4865a23d2ecf9203342ee6888e46216e03cd251d988"
 metafile = true
 
 [[files]]
+file = "mods/lib/iceberg.pw.toml"
+hash = "508bb0881b33b90d92ff7b54356e31218d7ecb7e660b9b1c0a6ffb08d9511a89"
+metafile = true
+
+[[files]]
 file = "mods/lib/midnightlib.pw.toml"
 hash = "f1dd101af8cdff5eb9adeea5173887d4c4acb5dcab2569e55bf4bf56cd940f58"
 metafile = true
@@ -131,6 +132,11 @@ hash = "4da691fd02807ac99826ed2bdadf7eb4373b90f2de2d8eefdf773e0aae0919a5"
 metafile = true
 
 [[files]]
+file = "mods/lib/prism-lib.pw.toml"
+hash = "1a27310369074114fd28e4a944f762c1f29555e0ba1f143e1225799682015d65"
+metafile = true
+
+[[files]]
 file = "mods/lib/puzzles-lib.pw.toml"
 hash = "8d7eb3d11861f2d407b374ad9ee20b62a80bc97cfe709f442f3b5c7bd2b2222d"
 metafile = true
@@ -138,11 +144,6 @@ metafile = true
 [[files]]
 file = "mods/lib/trinkets.pw.toml"
 hash = "8bc3d6e4f2ba3d0c115cc9cc07c9da9110d306adf1012beed6dec886773eee7a"
-metafile = true
-
-[[files]]
-file = "mods/lib/txnilib.pw.toml"
-hash = "8741bb13886613596972e6fe0b3da793c3453f996af2642b012fdc972746438c"
 metafile = true
 
 [[files]]
@@ -286,18 +287,8 @@ hash = "8f8e246b91f159fead804648b3b27b0c115f4c1ed3da8582bd46ee11c09560f2"
 metafile = true
 
 [[files]]
-file = "mods/ui/enchantment-descriptions.pw.toml"
-hash = "9ee2045be1350c8be1365a0374ce04191877952ccb3dbef97cb57e47a9a7c7ba"
-metafile = true
-
-[[files]]
 file = "mods/ui/enhanced-attack-indicator.pw.toml"
 hash = "e3b9a5b946fac5d1a5f229ab0fbc05ec2309cdd4e55b1a6efb55ffa59a0b05eb"
-metafile = true
-
-[[files]]
-file = "mods/ui/immersive-armor-hud.pw.toml"
-hash = "4f5e3d9e04093b28f2b75de9b12568c603b2530e7d83c07e6f573b048d0c46d1"
 metafile = true
 
 [[files]]
@@ -311,8 +302,23 @@ hash = "9db5ca2cff5e091f38b3989f4c5c615340e64efeccab11f0ea85c2af5798fe4d"
 metafile = true
 
 [[files]]
-file = "mods/ui/shulkerboxtooltip.pw.toml"
-hash = "358cfa1e694c326561c1286840d16f735b06a2ef057841e3bead226af60de16a"
+file = "mods/ui/tooltip/dynamic-tooltips.pw.toml"
+hash = "75fc769446679ad362a4d98970e57975399433a06951d5540d386fe8c42135fc"
+metafile = true
+
+[[files]]
+file = "mods/ui/tooltip/enchantment-descriptions.pw.toml"
+hash = "affbfdc2b1a2878ecd6027d575d74ea1ca0bc914a95f0cad69c461ce1a40e208"
+metafile = true
+
+[[files]]
+file = "mods/ui/tooltip/legendary-tooltips.pw.toml"
+hash = "00c5a2fb98a3afbe16c70a45e2e558a5d886882a5a452f07b3ffc1cdad9aa7b9"
+metafile = true
+
+[[files]]
+file = "mods/ui/tooltip/shulkerboxtooltip.pw.toml"
+hash = "d6f951c28919994775b0eec3c673d559ae9e281180e2366475f091529bd0d624"
 metafile = true
 
 [[files]]

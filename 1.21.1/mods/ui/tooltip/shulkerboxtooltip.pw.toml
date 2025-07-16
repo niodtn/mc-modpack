@@ -1,5 +1,5 @@
 name = "Shulker Box Tooltip"
-filename = "../shulkerboxtooltip-fabric-5.1.6+1.21.1.jar"
+filename = "../../shulkerboxtooltip-fabric-5.1.6+1.21.1.jar"
 side = "client"
 
 [download]
