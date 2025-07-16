@@ -31,11 +31,6 @@ hash = "6a08408df1770ae4162e109abba21e3c2ece46290ceb8d60c61b58c35a90e2de"
 metafile = true
 
 [[files]]
-file = "mods/aesthetics/flow.pw.toml"
-hash = "e230be0771bc96a48970279b40a74a18a3ded0c5c6cc33251bb480ecb41b96dd"
-metafile = true
-
-[[files]]
 file = "mods/aesthetics/seamless-loading-screen.pw.toml"
 hash = "347857ad5c236f5af6c432171b3cb17d2b1c441b180a1284faf69a5e26a4c8e5"
 metafile = true
@@ -111,11 +106,6 @@ hash = "f1dd101af8cdff5eb9adeea5173887d4c4acb5dcab2569e55bf4bf56cd940f58"
 metafile = true
 
 [[files]]
-file = "mods/lib/mru.pw.toml"
-hash = "8c7dab8c91b2def55f78b9e15405f53793b5792fbe5700629b1a9a5a3ff96761"
-metafile = true
-
-[[files]]
 file = "mods/lib/placeholder-api.pw.toml"
 hash = "bcf11893698074ba43f10b4e87e0636b0561505d8618fdccf646bcb9555e2af9"
 metafile = true
@@ -162,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/optimization/fast-item-frames.pw.toml"
-hash = "0bdbf5666c0e555692ef4702adca2eb53cf28507dabb2886d40dbd1a8344b290"
+hash = "041b4010314601ad968f3974d6a57c434c71ee0d3be0dfef758fcdc475f1880a"
 metafile = true
 
 [[files]]
@@ -308,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/utility/boat-item-view.pw.toml"
 hash = "047788aab1f4c707a2e9c0497b2aaca2cbdb621da3e931369fe7286708beeb81"
+metafile = true
+
+[[files]]
+file = "mods/utility/clickthrough+.pw.toml"
+hash = "50848488f9a54a7bf46b87bba640025f14ec0212672915d1e6887f846f5dee81"
 metafile = true
 
 [[files]]
