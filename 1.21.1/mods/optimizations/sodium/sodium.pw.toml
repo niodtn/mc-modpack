@@ -1,6 +1,8 @@
 name = "Sodium"
-filename = "sodium-fabric-0.6.13+mc1.21.1.jar"
+filename = "../../sodium-fabric-0.6.13+mc1.21.1.jar"
 side = "client"
+
+# 최적화 모드
 
 [download]
 url = "https://cdn.modrinth.com/data/AANobbMI/versions/u1OEbNKx/sodium-fabric-0.6.13%2Bmc1.21.1.jar"

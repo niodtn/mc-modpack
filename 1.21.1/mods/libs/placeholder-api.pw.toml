@@ -1,5 +1,5 @@
 name = "Text Placeholder API"
-filename = "placeholder-api-2.4.2+1.21.jar"
+filename = "../placeholder-api-2.4.2+1.21.jar"
 side = "both"
 
 [download]

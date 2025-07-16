@@ -16,6 +16,16 @@ hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
-file = "mods/optimizations/sodium.pw.toml"
-hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+file = "mods/optimizations/entityculling.pw.toml"
+hash = "dcfd69fe4f642597dab1eea5091f6b69c0618e7f8b14b44e67dc5ef9bef7fb73"
+metafile = true
+
+[[files]]
+file = "mods/optimizations/sodium/reeses-sodium-options.pw.toml"
+hash = "4b8ab1107fc0cce0b48fc4732fd19d0788c7cba87f0bf59b8025907fe225f207"
+metafile = true
+
+[[files]]
+file = "mods/optimizations/sodium/sodium.pw.toml"
+hash = "43bf6d05006901a3ffe7e545242a2241722d95a7e5196f3e5c82e30053741cfa"
 metafile = true
