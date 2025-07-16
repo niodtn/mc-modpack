@@ -1,5 +1,5 @@
 name = "Clean F3"
-filename = "CleanF3-mc1.20.x-0.4.9.jar"
+filename = "../CleanF3-mc1.20.x-0.4.9.jar"
 side = "client"
 
 [download]

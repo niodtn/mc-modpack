@@ -1,5 +1,5 @@
 name = "Mod Menu"
-filename = "modmenu-11.0.3.jar"
+filename = "../modmenu-11.0.3.jar"
 side = "client"
 
 [download]

@@ -1,136 +1,191 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/clean-f3.pw.toml"
-hash = "b5af3194d6df56cc66492a178625a37947027a7d761eb29153f33869508a6863"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
 
 [[files]]
-file = "mods/libs/cloth-config.pw.toml"
+file = "mods/lib/bookshelf-lib.pw.toml"
+hash = "13d434f34c6061fd2ab6609578b9e68f2fdd53bef1f84516b78b03ee9a77a69c"
+metafile = true
+
+[[files]]
+file = "mods/lib/cloth-config.pw.toml"
 hash = "e6e95118697afbd3911c2288d9575922d27baa8305baf38927490ef1533c9194"
 metafile = true
 
 [[files]]
-file = "mods/libs/fabric-api.pw.toml"
+file = "mods/lib/fabric-api.pw.toml"
 hash = "b846ac30b45fa1352e5fede367f2b17801af05c3906f3804cbc8cdcd99d78c09"
 metafile = true
 
 [[files]]
-file = "mods/libs/forge-config-api-port.pw.toml"
+file = "mods/lib/forge-config-api-port.pw.toml"
 hash = "f87e15c11c03c2548749a4865a23d2ecf9203342ee6888e46216e03cd251d988"
 metafile = true
 
 [[files]]
-file = "mods/libs/midnightlib.pw.toml"
+file = "mods/lib/midnightlib.pw.toml"
 hash = "f1dd101af8cdff5eb9adeea5173887d4c4acb5dcab2569e55bf4bf56cd940f58"
 metafile = true
 
 [[files]]
-file = "mods/libs/placeholder-api.pw.toml"
+file = "mods/lib/placeholder-api.pw.toml"
 hash = "bcf11893698074ba43f10b4e87e0636b0561505d8618fdccf646bcb9555e2af9"
 metafile = true
 
 [[files]]
-file = "mods/libs/puzzles-lib.pw.toml"
+file = "mods/lib/prickle.pw.toml"
+hash = "4da691fd02807ac99826ed2bdadf7eb4373b90f2de2d8eefdf773e0aae0919a5"
+metafile = true
+
+[[files]]
+file = "mods/lib/puzzles-lib.pw.toml"
 hash = "8d7eb3d11861f2d407b374ad9ee20b62a80bc97cfe709f442f3b5c7bd2b2222d"
 metafile = true
 
 [[files]]
-file = "mods/libs/yacl.pw.toml"
+file = "mods/lib/yacl.pw.toml"
 hash = "1c495f25a763147e6c42e53691e8983d571fdf94b9e8e5833dffe5a5a0cc5c1b"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
-hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+file = "mods/mouse-tweaks.pw.toml"
+hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
 metafile = true
 
 [[files]]
-file = "mods/optimizations/badoptimizations.pw.toml"
+file = "mods/optimization/alternate-current.pw.toml"
+hash = "990f635ec812831b4320b9e9138fe39451fbae76e45c74a5b6cae00b3b5583ae"
+metafile = true
+
+[[files]]
+file = "mods/optimization/badoptimizations.pw.toml"
 hash = "da38560ab6be8c8ac3d3ba5e55063623375b3409a75bfd468031303913b0a232"
 metafile = true
 
 [[files]]
-file = "mods/optimizations/debugify.pw.toml"
-hash = "1fd5b77bf8c239307520fc60f4c044169212211081459e212085cc97857c424e"
-metafile = true
-
-[[files]]
-file = "mods/optimizations/dynamic-fps.pw.toml"
+file = "mods/optimization/dynamic-fps.pw.toml"
 hash = "31147a5ef8f75bacf712610e4265b706bd1804f3e571cefadb793adfead2b91e"
 metafile = true
 
 [[files]]
-file = "mods/optimizations/ebe.pw.toml"
+file = "mods/optimization/ebe.pw.toml"
 hash = "afcd1652a544c2db2eb1a6b4837240953033d8f980dd2225a1bc04baf6b03382"
 metafile = true
 
 [[files]]
-file = "mods/optimizations/entityculling.pw.toml"
+file = "mods/optimization/entityculling.pw.toml"
 hash = "1d82861c6be71d34dec82a52aa62f8f38b23c8276a6a7a6949b637276ae46cd9"
 metafile = true
 
 [[files]]
-file = "mods/optimizations/fast-item-frames.pw.toml"
+file = "mods/optimization/fast-item-frames.pw.toml"
 hash = "0bdbf5666c0e555692ef4702adca2eb53cf28507dabb2886d40dbd1a8344b290"
 metafile = true
 
 [[files]]
-file = "mods/optimizations/fastquit.pw.toml"
+file = "mods/optimization/fastquit.pw.toml"
 hash = "46865738dbe3c82664b0918679bbf5286b46a5259eb2eb24d853a938a3a33a4c"
 metafile = true
 
 [[files]]
-file = "mods/optimizations/ferrite-core.pw.toml"
+file = "mods/optimization/ferrite-core.pw.toml"
 hash = "ee91e00e3d24d6d5ead86c64764abd4c6ba87c67c91b06135b226d1cd8e060fb"
 metafile = true
 
 [[files]]
-file = "mods/optimizations/immediatelyfast.pw.toml"
+file = "mods/optimization/fix/debugify.pw.toml"
+hash = "ea1b4cdf8ee13eb657ba7bbf9cc38f1f3e474d629e628057dd6febc0bed3c8a7"
+metafile = true
+
+[[files]]
+file = "mods/optimization/fix/modelfix.pw.toml"
+hash = "bb3601a10346baf5240223aa59a4e726d2a88d6bdac2f0e6e9153673d94a5228"
+metafile = true
+
+[[files]]
+file = "mods/optimization/fix/modernfix.pw.toml"
+hash = "9cc65e8f75b0ed35e9147a0466e4367a444175b31902db2dc014bf1d09a4c50c"
+metafile = true
+
+[[files]]
+file = "mods/optimization/fix/tooltipfix.pw.toml"
+hash = "8484aba23a4f97db0e73e340f104c819ed7bf14309d90ab8160d11790e47490f"
+metafile = true
+
+[[files]]
+file = "mods/optimization/immediatelyfast.pw.toml"
 hash = "6f84c3b22dbf73911d04e8df56074f039d2aabbf3ba02f9eb3b7c1fc4b0ddb36"
 metafile = true
 
 [[files]]
-file = "mods/optimizations/krypton.pw.toml"
+file = "mods/optimization/krypton.pw.toml"
 hash = "3eb1fb1deca862a762c6389f886e056a088edb7e818596e3852abf6fc60f399b"
 metafile = true
 
 [[files]]
-file = "mods/optimizations/lithium.pw.toml"
+file = "mods/optimization/ksyxis.pw.toml"
+hash = "3e5f1cef6cfcd1165c8071dfd636f8076913edda0f05a93dfdd111b411d223a9"
+metafile = true
+
+[[files]]
+file = "mods/optimization/language-reload.pw.toml"
+hash = "a7fb21037dd325382af7fabae0bbcecbf943e6f5fc6223e8603263a21697809f"
+metafile = true
+
+[[files]]
+file = "mods/optimization/lithium.pw.toml"
 hash = "b6d5a218c759b31db02dd0d8adddd66a9cd483c988d30c6b9ce5f27de5a8847b"
 metafile = true
 
 [[files]]
-file = "mods/optimizations/modelfix.pw.toml"
-hash = "64d3b36dbc50ac64df944f7ee32f8a0144ffe63449d81a2841e361b0dc6ee269"
-metafile = true
-
-[[files]]
-file = "mods/optimizations/modernfix.pw.toml"
-hash = "bcf651cc771c73b35b45a51f706885250dc5d87707d8c8cfb7929272cdf698d0"
-metafile = true
-
-[[files]]
-file = "mods/optimizations/moreculling.pw.toml"
+file = "mods/optimization/moreculling.pw.toml"
 hash = "e4244ea55070efb3a96d824d258db4a89c492e113b6664d7e24c10c31d77d17f"
 metafile = true
 
 [[files]]
-file = "mods/optimizations/sodium/reeses-sodium-options.pw.toml"
+file = "mods/optimization/norollback.pw.toml"
+hash = "1353126e5d5b3e3498dfe3576e34ace16b623d9966f5bafcc2cb243c73eed30b"
+metafile = true
+
+[[files]]
+file = "mods/optimization/rrls.pw.toml"
+hash = "1caa30f01a06630e4d29843e3d8d471700e7e7e09736e6b009278c4bbabe1f17"
+metafile = true
+
+[[files]]
+file = "mods/optimization/sodium/reeses-sodium-options.pw.toml"
 hash = "4b8ab1107fc0cce0b48fc4732fd19d0788c7cba87f0bf59b8025907fe225f207"
 metafile = true
 
 [[files]]
-file = "mods/optimizations/sodium/sodium-extra.pw.toml"
+file = "mods/optimization/sodium/sodium-extra.pw.toml"
 hash = "a433044c8fa276e11114701264abfa3a2144c00b1357dbcc9557ed7580dde0e3"
 metafile = true
 
 [[files]]
-file = "mods/optimizations/sodium/sodium.pw.toml"
+file = "mods/optimization/sodium/sodium.pw.toml"
 hash = "b1128892a4e6789eade505db1186205873e576e4ecaea5402d892c52a369bccb"
+metafile = true
+
+[[files]]
+file = "mods/ui/clean-f3.pw.toml"
+hash = "8f8e246b91f159fead804648b3b27b0c115f4c1ed3da8582bd46ee11c09560f2"
+metafile = true
+
+[[files]]
+file = "mods/ui/enchantment-descriptions.pw.toml"
+hash = "9ee2045be1350c8be1365a0374ce04191877952ccb3dbef97cb57e47a9a7c7ba"
+metafile = true
+
+[[files]]
+file = "mods/ui/modmenu.pw.toml"
+hash = "084967dc59a0a172aba37278d2084a21c7e5ad4a5fbd5bfc40dcb013335596a7"
+metafile = true
+
+[[files]]
+file = "mods/ui/shulkerboxtooltip.pw.toml"
+hash = "358cfa1e694c326561c1286840d16f735b06a2ef057841e3bead226af60de16a"
 metafile = true
