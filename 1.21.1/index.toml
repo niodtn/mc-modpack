@@ -21,6 +21,11 @@ hash = "b846ac30b45fa1352e5fede367f2b17801af05c3906f3804cbc8cdcd99d78c09"
 metafile = true
 
 [[files]]
+file = "mods/libs/forge-config-api-port.pw.toml"
+hash = "f87e15c11c03c2548749a4865a23d2ecf9203342ee6888e46216e03cd251d988"
+metafile = true
+
+[[files]]
 file = "mods/libs/midnightlib.pw.toml"
 hash = "f1dd101af8cdff5eb9adeea5173887d4c4acb5dcab2569e55bf4bf56cd940f58"
 metafile = true
@@ -28,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/libs/placeholder-api.pw.toml"
 hash = "bcf11893698074ba43f10b4e87e0636b0561505d8618fdccf646bcb9555e2af9"
+metafile = true
+
+[[files]]
+file = "mods/libs/puzzles-lib.pw.toml"
+hash = "8d7eb3d11861f2d407b374ad9ee20b62a80bc97cfe709f442f3b5c7bd2b2222d"
 metafile = true
 
 [[files]]
@@ -41,6 +51,11 @@ hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
+file = "mods/optimizations/badoptimizations.pw.toml"
+hash = "da38560ab6be8c8ac3d3ba5e55063623375b3409a75bfd468031303913b0a232"
+metafile = true
+
+[[files]]
 file = "mods/optimizations/debugify.pw.toml"
 hash = "1fd5b77bf8c239307520fc60f4c044169212211081459e212085cc97857c424e"
 metafile = true
@@ -51,8 +66,18 @@ hash = "31147a5ef8f75bacf712610e4265b706bd1804f3e571cefadb793adfead2b91e"
 metafile = true
 
 [[files]]
+file = "mods/optimizations/ebe.pw.toml"
+hash = "afcd1652a544c2db2eb1a6b4837240953033d8f980dd2225a1bc04baf6b03382"
+metafile = true
+
+[[files]]
 file = "mods/optimizations/entityculling.pw.toml"
 hash = "1d82861c6be71d34dec82a52aa62f8f38b23c8276a6a7a6949b637276ae46cd9"
+metafile = true
+
+[[files]]
+file = "mods/optimizations/fast-item-frames.pw.toml"
+hash = "0bdbf5666c0e555692ef4702adca2eb53cf28507dabb2886d40dbd1a8344b290"
 metafile = true
 
 [[files]]
@@ -63,6 +88,21 @@ metafile = true
 [[files]]
 file = "mods/optimizations/ferrite-core.pw.toml"
 hash = "ee91e00e3d24d6d5ead86c64764abd4c6ba87c67c91b06135b226d1cd8e060fb"
+metafile = true
+
+[[files]]
+file = "mods/optimizations/immediatelyfast.pw.toml"
+hash = "6f84c3b22dbf73911d04e8df56074f039d2aabbf3ba02f9eb3b7c1fc4b0ddb36"
+metafile = true
+
+[[files]]
+file = "mods/optimizations/krypton.pw.toml"
+hash = "3eb1fb1deca862a762c6389f886e056a088edb7e818596e3852abf6fc60f399b"
+metafile = true
+
+[[files]]
+file = "mods/optimizations/lithium.pw.toml"
+hash = "b6d5a218c759b31db02dd0d8adddd66a9cd483c988d30c6b9ce5f27de5a8847b"
 metafile = true
 
 [[files]]
