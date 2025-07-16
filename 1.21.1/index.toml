@@ -1,13 +1,33 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/clean-f3.pw.toml"
+hash = "b5af3194d6df56cc66492a178625a37947027a7d761eb29153f33869508a6863"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "6abb3b1ffd62cc39509ec0cbf1376f6248c91b30515d02348c41fbaf651278d8"
+metafile = true
+
+[[files]]
+file = "mods/libs/cloth-config.pw.toml"
+hash = "e6e95118697afbd3911c2288d9575922d27baa8305baf38927490ef1533c9194"
+metafile = true
+
+[[files]]
 file = "mods/libs/fabric-api.pw.toml"
-hash = "c45656db928ed544c927449b5ceac0feef9488b0ea4154cab9199b37817cd4d5"
+hash = "b846ac30b45fa1352e5fede367f2b17801af05c3906f3804cbc8cdcd99d78c09"
+metafile = true
+
+[[files]]
+file = "mods/libs/midnightlib.pw.toml"
+hash = "f1dd101af8cdff5eb9adeea5173887d4c4acb5dcab2569e55bf4bf56cd940f58"
 metafile = true
 
 [[files]]
 file = "mods/libs/placeholder-api.pw.toml"
-hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
+hash = "bcf11893698074ba43f10b4e87e0636b0561505d8618fdccf646bcb9555e2af9"
 metafile = true
 
 [[files]]
@@ -17,7 +37,22 @@ metafile = true
 
 [[files]]
 file = "mods/optimizations/entityculling.pw.toml"
-hash = "dcfd69fe4f642597dab1eea5091f6b69c0618e7f8b14b44e67dc5ef9bef7fb73"
+hash = "1d82861c6be71d34dec82a52aa62f8f38b23c8276a6a7a6949b637276ae46cd9"
+metafile = true
+
+[[files]]
+file = "mods/optimizations/ferrite-core.pw.toml"
+hash = "ee91e00e3d24d6d5ead86c64764abd4c6ba87c67c91b06135b226d1cd8e060fb"
+metafile = true
+
+[[files]]
+file = "mods/optimizations/modernfix.pw.toml"
+hash = "bcf651cc771c73b35b45a51f706885250dc5d87707d8c8cfb7929272cdf698d0"
+metafile = true
+
+[[files]]
+file = "mods/optimizations/moreculling.pw.toml"
+hash = "e4244ea55070efb3a96d824d258db4a89c492e113b6664d7e24c10c31d77d17f"
 metafile = true
 
 [[files]]
@@ -26,6 +61,11 @@ hash = "4b8ab1107fc0cce0b48fc4732fd19d0788c7cba87f0bf59b8025907fe225f207"
 metafile = true
 
 [[files]]
+file = "mods/optimizations/sodium/sodium-extra.pw.toml"
+hash = "a433044c8fa276e11114701264abfa3a2144c00b1357dbcc9557ed7580dde0e3"
+metafile = true
+
+[[files]]
 file = "mods/optimizations/sodium/sodium.pw.toml"
-hash = "43bf6d05006901a3ffe7e545242a2241722d95a7e5196f3e5c82e30053741cfa"
+hash = "b1128892a4e6789eade505db1186205873e576e4ecaea5402d892c52a369bccb"
 metafile = true
