@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/immersivearmorhud-client.toml"
+hash = "e7f0552c09ce10c09d7790eb16738a07f6e7bf9d85c583b0937ccc9671763129"
+
+[[files]]
 file = "config/moreculling.toml"
 hash = "e4390495164ff2de7ff0138c2e7ade2d809fac0fa5c7fcaf409d3de5be2aabe0"
+
+[[files]]
+file = "config/options.txt"
+hash = "f884b31db4fe0fd311cc87fdd3cfc59d6566fb8d59f7655fad94820f9082438e"
+
+[[files]]
+file = "config/overflowingbars-client.toml"
+hash = "4fd90e87170cce6d0f8d00d73083dbc8d52440c154324d57dce36980a8b998bc"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -121,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/lib/puzzles-lib.pw.toml"
 hash = "8d7eb3d11861f2d407b374ad9ee20b62a80bc97cfe709f442f3b5c7bd2b2222d"
+metafile = true
+
+[[files]]
+file = "mods/lib/trinkets.pw.toml"
+hash = "8bc3d6e4f2ba3d0c115cc9cc07c9da9110d306adf1012beed6dec886773eee7a"
 metafile = true
 
 [[files]]
@@ -334,6 +351,11 @@ hash = "0fc7bb9e2492d584ebf83cab8b2125cded43ee387434f70a8d2761079fd13d1a"
 metafile = true
 
 [[files]]
+file = "mods/utility/elytra-slot.pw.toml"
+hash = "1ce6eb2292655e065266236eb928f3aa6e3e7995c5aac9f8277eede6cecb2a03"
+metafile = true
+
+[[files]]
 file = "mods/utility/jump-over-fences.pw.toml"
 hash = "1a5e14f02f6cba6280bc81ea270bd719aca783b72fe62ca1ca8e7d45889c5754"
 metafile = true
@@ -374,10 +396,15 @@ hash = "a0c4eb207e69412061fbe614a22741cca523350395465ebfab6fe2043cca194d"
 metafile = true
 
 [[files]]
+file = "mods/utility/villager/visible-traders.pw.toml"
+hash = "f6f1c4840e398d19bcf3839804dd256004761249d0673e837f6d425b892a48be"
+metafile = true
+
+[[files]]
 file = "mods/utility/what-are-they-up-to.pw.toml"
 hash = "2daf1d2ea9386b5d3a37fccd6c1d1d5b56c61ecdd9c60d90fc812148f0dc0f46"
 metafile = true
 
 [[files]]
 file = "todo.md"
-hash = "3fa4cd09463bf001cecb5445fb95f586e4455cf0594aa9649fe21332bff739e1"
+hash = "a1241463f5b3d54b66426559844ff3e3d9d51bc5054def3d2c833a174dd3fac0"
