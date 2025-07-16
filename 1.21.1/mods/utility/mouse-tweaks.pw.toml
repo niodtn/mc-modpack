@@ -1,5 +1,5 @@
 name = "Mouse Tweaks"
-filename = "MouseTweaks-fabric-mc1.21-2.26.jar"
+filename = "../MouseTweaks-fabric-mc1.21-2.26.jar"
 side = "client"
 
 [download]

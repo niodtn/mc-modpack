@@ -51,11 +51,6 @@ hash = "1c495f25a763147e6c42e53691e8983d571fdf94b9e8e5833dffe5a5a0cc5c1b"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
-metafile = true
-
-[[files]]
 file = "mods/optimization/alternate-current.pw.toml"
 hash = "990f635ec812831b4320b9e9138fe39451fbae76e45c74a5b6cae00b3b5583ae"
 metafile = true
@@ -188,4 +183,9 @@ metafile = true
 [[files]]
 file = "mods/ui/shulkerboxtooltip.pw.toml"
 hash = "358cfa1e694c326561c1286840d16f735b06a2ef057841e3bead226af60de16a"
+metafile = true
+
+[[files]]
+file = "mods/utility/mouse-tweaks.pw.toml"
+hash = "41ddb695776da2cf714699474ca9e6e3d61c9d68e6954ce680d54b648fce0622"
 metafile = true
