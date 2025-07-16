@@ -1,0 +1,13 @@
+name = "1.21.1"
+author = "Niodtn"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bdcbb53b7e31e5206ea3ad58dd24698ad2c61e4aa25ba8d079e8e6e023dd7d24"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.1"
