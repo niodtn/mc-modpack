@@ -166,6 +166,16 @@ hash = "b1128892a4e6789eade505db1186205873e576e4ecaea5402d892c52a369bccb"
 metafile = true
 
 [[files]]
+file = "mods/ui/better-advancements.pw.toml"
+hash = "046f810e1cf2fa0186c17f99255b421cb1cd3393e05f28487ae31ba5be784ed7"
+metafile = true
+
+[[files]]
+file = "mods/ui/better-mount-hud.pw.toml"
+hash = "d27972d9df79959df51892086e34def4410524f7ce2da3e64f32b43a58a50ee3"
+metafile = true
+
+[[files]]
 file = "mods/ui/clean-f3.pw.toml"
 hash = "8f8e246b91f159fead804648b3b27b0c115f4c1ed3da8582bd46ee11c09560f2"
 metafile = true
@@ -176,13 +186,28 @@ hash = "9ee2045be1350c8be1365a0374ce04191877952ccb3dbef97cb57e47a9a7c7ba"
 metafile = true
 
 [[files]]
+file = "mods/ui/enhanced-attack-indicator.pw.toml"
+hash = "e3b9a5b946fac5d1a5f229ab0fbc05ec2309cdd4e55b1a6efb55ffa59a0b05eb"
+metafile = true
+
+[[files]]
 file = "mods/ui/modmenu.pw.toml"
 hash = "084967dc59a0a172aba37278d2084a21c7e5ad4a5fbd5bfc40dcb013335596a7"
 metafile = true
 
 [[files]]
+file = "mods/ui/overflowing-bars.pw.toml"
+hash = "9db5ca2cff5e091f38b3989f4c5c615340e64efeccab11f0ea85c2af5798fe4d"
+metafile = true
+
+[[files]]
 file = "mods/ui/shulkerboxtooltip.pw.toml"
 hash = "358cfa1e694c326561c1286840d16f735b06a2ef057841e3bead226af60de16a"
+metafile = true
+
+[[files]]
+file = "mods/utility/boat-item-view.pw.toml"
+hash = "047788aab1f4c707a2e9c0497b2aaca2cbdb621da3e931369fe7286708beeb81"
 metafile = true
 
 [[files]]
