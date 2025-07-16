@@ -31,8 +31,23 @@ hash = "bcf11893698074ba43f10b4e87e0636b0561505d8618fdccf646bcb9555e2af9"
 metafile = true
 
 [[files]]
+file = "mods/libs/yacl.pw.toml"
+hash = "1c495f25a763147e6c42e53691e8983d571fdf94b9e8e5833dffe5a5a0cc5c1b"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+metafile = true
+
+[[files]]
+file = "mods/optimizations/debugify.pw.toml"
+hash = "1fd5b77bf8c239307520fc60f4c044169212211081459e212085cc97857c424e"
+metafile = true
+
+[[files]]
+file = "mods/optimizations/dynamic-fps.pw.toml"
+hash = "31147a5ef8f75bacf712610e4265b706bd1804f3e571cefadb793adfead2b91e"
 metafile = true
 
 [[files]]
@@ -41,8 +56,18 @@ hash = "1d82861c6be71d34dec82a52aa62f8f38b23c8276a6a7a6949b637276ae46cd9"
 metafile = true
 
 [[files]]
+file = "mods/optimizations/fastquit.pw.toml"
+hash = "46865738dbe3c82664b0918679bbf5286b46a5259eb2eb24d853a938a3a33a4c"
+metafile = true
+
+[[files]]
 file = "mods/optimizations/ferrite-core.pw.toml"
 hash = "ee91e00e3d24d6d5ead86c64764abd4c6ba87c67c91b06135b226d1cd8e060fb"
+metafile = true
+
+[[files]]
+file = "mods/optimizations/modelfix.pw.toml"
+hash = "64d3b36dbc50ac64df944f7ee32f8a0144ffe63449d81a2841e361b0dc6ee269"
 metafile = true
 
 [[files]]
