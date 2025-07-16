@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/aesthetics/3dskinlayers.pw.toml"
+hash = "1d75032662019a8532eb59e452d9ce83169ad5f68def6163ba61836ca16601b0"
+metafile = true
+
+[[files]]
+file = "mods/aesthetics/continuity.pw.toml"
+hash = "1ddeeed487e8cabd3b560b2e188801089c5a235a38a6e6c3120c72d578c0f013"
+metafile = true
+
+[[files]]
+file = "mods/aesthetics/eating-animation.pw.toml"
+hash = "6a08408df1770ae4162e109abba21e3c2ece46290ceb8d60c61b58c35a90e2de"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "15f5068116d9bf87e7f711a2cd9139d9eb66d83e712172d95bb2bea5167d43dd"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
@@ -108,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/optimization/fix/debugify.pw.toml"
 hash = "ea1b4cdf8ee13eb657ba7bbf9cc38f1f3e474d629e628057dd6febc0bed3c8a7"
+metafile = true
+
+[[files]]
+file = "mods/optimization/fix/macos-input-fixes.pw.toml"
+hash = "49b8a7508b4d77830e767a94ca4c6a3a10c15676f9c9dadd1b0ec2aee1940c62"
 metafile = true
 
 [[files]]
@@ -223,6 +248,21 @@ metafile = true
 [[files]]
 file = "mods/utility/boat-item-view.pw.toml"
 hash = "047788aab1f4c707a2e9c0497b2aaca2cbdb621da3e931369fe7286708beeb81"
+metafile = true
+
+[[files]]
+file = "mods/utility/crawl.pw.toml"
+hash = "7b7a2fd996a5ebfbc66369476a518f742652c5adda411bc0becb43824dbae51a"
+metafile = true
+
+[[files]]
+file = "mods/utility/easy-anvils.pw.toml"
+hash = "d234fbed445584ea93fb5ada501fd40c359b137f7245d1231b2d47ab7ffd4f0c"
+metafile = true
+
+[[files]]
+file = "mods/utility/easy-magic.pw.toml"
+hash = "4b311e16476e0e0c44ec3641f57105d74aa3d0b02245cde4a654a9b4d81994c2"
 metafile = true
 
 [[files]]
