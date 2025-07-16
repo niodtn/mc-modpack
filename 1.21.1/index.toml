@@ -6,6 +6,11 @@ hash = "1d75032662019a8532eb59e452d9ce83169ad5f68def6163ba61836ca16601b0"
 metafile = true
 
 [[files]]
+file = "mods/aesthetics/axolotl-buckets.pw.toml"
+hash = "0fab62bdc739a1e0a20d3918c4dc478c10ecc6e0806b88d5a64906ebdc73c4fc"
+metafile = true
+
+[[files]]
 file = "mods/aesthetics/continuity.pw.toml"
 hash = "1ddeeed487e8cabd3b560b2e188801089c5a235a38a6e6c3120c72d578c0f013"
 metafile = true
@@ -13,6 +18,16 @@ metafile = true
 [[files]]
 file = "mods/aesthetics/eating-animation.pw.toml"
 hash = "6a08408df1770ae4162e109abba21e3c2ece46290ceb8d60c61b58c35a90e2de"
+metafile = true
+
+[[files]]
+file = "mods/aesthetics/seamless-loading-screen.pw.toml"
+hash = "347857ad5c236f5af6c432171b3cb17d2b1c441b180a1284faf69a5e26a4c8e5"
+metafile = true
+
+[[files]]
+file = "mods/aesthetics/show-me-your-skin.pw.toml"
+hash = "7a1681cd2211cb9179d25eb43ec2a45df852afb582a8f158e72112543ff45c0d"
 metafile = true
 
 [[files]]
@@ -41,6 +56,11 @@ hash = "e6e95118697afbd3911c2288d9575922d27baa8305baf38927490ef1533c9194"
 metafile = true
 
 [[files]]
+file = "mods/lib/collective.pw.toml"
+hash = "7165acefce7c66b443efec5e49607fd173b30f57787ad26a78c08761c20063d2"
+metafile = true
+
+[[files]]
 file = "mods/lib/coroutil.pw.toml"
 hash = "1037528e5df875b641882df021bbd64065ba5d54ce739827fe5ef3e35e45c9ee"
 metafile = true
@@ -63,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/lib/midnightlib.pw.toml"
 hash = "f1dd101af8cdff5eb9adeea5173887d4c4acb5dcab2569e55bf4bf56cd940f58"
+metafile = true
+
+[[files]]
+file = "mods/lib/mru.pw.toml"
+hash = "8c7dab8c91b2def55f78b9e15405f53793b5792fbe5700629b1a9a5a3ff96761"
 metafile = true
 
 [[files]]
@@ -191,6 +216,11 @@ hash = "1caa30f01a06630e4d29843e3d8d471700e7e7e09736e6b009278c4bbabe1f17"
 metafile = true
 
 [[files]]
+file = "mods/optimization/scalablelux.pw.toml"
+hash = "658d2eb97685b3ceab8f92b12aaa9fd1b7d1ed5a02e944ea182fe93800492e6d"
+metafile = true
+
+[[files]]
 file = "mods/optimization/sodium/reeses-sodium-options.pw.toml"
 hash = "4b8ab1107fc0cce0b48fc4732fd19d0788c7cba87f0bf59b8025907fe225f207"
 metafile = true
@@ -231,6 +261,11 @@ hash = "e3b9a5b946fac5d1a5f229ab0fbc05ec2309cdd4e55b1a6efb55ffa59a0b05eb"
 metafile = true
 
 [[files]]
+file = "mods/ui/flow.pw.toml"
+hash = "e230be0771bc96a48970279b40a74a18a3ded0c5c6cc33251bb480ecb41b96dd"
+metafile = true
+
+[[files]]
 file = "mods/ui/modmenu.pw.toml"
 hash = "084967dc59a0a172aba37278d2084a21c7e5ad4a5fbd5bfc40dcb013335596a7"
 metafile = true
@@ -266,6 +301,16 @@ hash = "4b311e16476e0e0c44ec3641f57105d74aa3d0b02245cde4a654a9b4d81994c2"
 metafile = true
 
 [[files]]
+file = "mods/utility/easy-shulker-boxes.pw.toml"
+hash = "0fc7bb9e2492d584ebf83cab8b2125cded43ee387434f70a8d2761079fd13d1a"
+metafile = true
+
+[[files]]
+file = "mods/utility/jump-over-fences.pw.toml"
+hash = "1a5e14f02f6cba6280bc81ea270bd719aca783b72fe62ca1ca8e7d45889c5754"
+metafile = true
+
+[[files]]
 file = "mods/utility/mouse-tweaks.pw.toml"
 hash = "41ddb695776da2cf714699474ca9e6e3d61c9d68e6954ce680d54b648fce0622"
 metafile = true
@@ -276,8 +321,23 @@ hash = "0253bade3e74df27c138ac34dab26090c3fcc5c0a0986e9a14803bbd5229c97e"
 metafile = true
 
 [[files]]
-file = "mods/utility/show-me-your-skin.pw.toml"
-hash = "7a1681cd2211cb9179d25eb43ec2a45df852afb582a8f158e72112543ff45c0d"
+file = "mods/utility/tax-free-levels.pw.toml"
+hash = "2ef6797657a68c00e3135bb8562555131f4ea205b00d72d3556a3b7d025308a6"
+metafile = true
+
+[[files]]
+file = "mods/utility/universal-bone-meal.pw.toml"
+hash = "573076daecc6d4edb8911ea1932bd67223fc98335f784e85ca29a2d0a3ddfd33"
+metafile = true
+
+[[files]]
+file = "mods/utility/villager/infinite-trading.pw.toml"
+hash = "cd9524ba5ce1e3a0817d35e5212dad950944d38d33772eb919300d22c38fd9d0"
+metafile = true
+
+[[files]]
+file = "mods/utility/villager/trade-cycling.pw.toml"
+hash = "a0c4eb207e69412061fbe614a22741cca523350395465ebfab6fe2043cca194d"
 metafile = true
 
 [[files]]
