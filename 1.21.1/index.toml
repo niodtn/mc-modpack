@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/moreculling.toml"
+hash = "e4390495164ff2de7ff0138c2e7ade2d809fac0fa5c7fcaf409d3de5be2aabe0"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "b3f46555625c0d01ba4e9a41a0d5d96d2565091e246b3c29264abb4982bea4ad"
+
+[[files]]
 file = "mods/aesthetics/3dskinlayers.pw.toml"
 hash = "1d75032662019a8532eb59e452d9ce83169ad5f68def6163ba61836ca16601b0"
 metafile = true
@@ -43,11 +51,6 @@ metafile = true
 [[files]]
 file = "mods/csearcher.pw.toml"
 hash = "e7b8708e98d9b657e1a72e99431cf4da8592381a4cb20f3de7b802d09bba1adf"
-metafile = true
-
-[[files]]
-file = "mods/exposure.pw.toml"
-hash = "15f5068116d9bf87e7f711a2cd9139d9eb66d83e712172d95bb2bea5167d43dd"
 metafile = true
 
 [[files]]
@@ -133,11 +136,6 @@ metafile = true
 [[files]]
 file = "mods/optimization/alternate-current.pw.toml"
 hash = "990f635ec812831b4320b9e9138fe39451fbae76e45c74a5b6cae00b3b5583ae"
-metafile = true
-
-[[files]]
-file = "mods/optimization/badoptimizations.pw.toml"
-hash = "da38560ab6be8c8ac3d3ba5e55063623375b3409a75bfd468031303913b0a232"
 metafile = true
 
 [[files]]
@@ -382,4 +380,4 @@ metafile = true
 
 [[files]]
 file = "todo.md"
-hash = "09b2d3145ab50b549130741b3c1305dd4b8c27d06f0d6a68773b741af6a326ae"
+hash = "3fa4cd09463bf001cecb5445fb95f586e4455cf0594aa9649fe21332bff739e1"
