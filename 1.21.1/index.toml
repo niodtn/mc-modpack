@@ -121,6 +121,11 @@ hash = "8d7eb3d11861f2d407b374ad9ee20b62a80bc97cfe709f442f3b5c7bd2b2222d"
 metafile = true
 
 [[files]]
+file = "mods/lib/txnilib.pw.toml"
+hash = "8741bb13886613596972e6fe0b3da793c3453f996af2642b012fdc972746438c"
+metafile = true
+
+[[files]]
 file = "mods/lib/yacl.pw.toml"
 hash = "1c495f25a763147e6c42e53691e8983d571fdf94b9e8e5833dffe5a5a0cc5c1b"
 metafile = true
@@ -276,6 +281,11 @@ hash = "e3b9a5b946fac5d1a5f229ab0fbc05ec2309cdd4e55b1a6efb55ffa59a0b05eb"
 metafile = true
 
 [[files]]
+file = "mods/ui/immersive-armor-hud.pw.toml"
+hash = "4f5e3d9e04093b28f2b75de9b12568c603b2530e7d83c07e6f573b048d0c46d1"
+metafile = true
+
+[[files]]
 file = "mods/ui/modmenu.pw.toml"
 hash = "084967dc59a0a172aba37278d2084a21c7e5ad4a5fbd5bfc40dcb013335596a7"
 metafile = true
@@ -369,3 +379,7 @@ metafile = true
 file = "mods/utility/what-are-they-up-to.pw.toml"
 hash = "2daf1d2ea9386b5d3a37fccd6c1d1d5b56c61ecdd9c60d90fc812148f0dc0f46"
 metafile = true
+
+[[files]]
+file = "todo.md"
+hash = "09b2d3145ab50b549130741b3c1305dd4b8c27d06f0d6a68773b741af6a326ae"
