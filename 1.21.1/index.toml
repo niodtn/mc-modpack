@@ -11,13 +11,28 @@ hash = "13d434f34c6061fd2ab6609578b9e68f2fdd53bef1f84516b78b03ee9a77a69c"
 metafile = true
 
 [[files]]
+file = "mods/lib/cicada.pw.toml"
+hash = "aabf12d5cb7263b0fa0447960562cde29a121fa497b5b9f0804e98284006cc1f"
+metafile = true
+
+[[files]]
 file = "mods/lib/cloth-config.pw.toml"
 hash = "e6e95118697afbd3911c2288d9575922d27baa8305baf38927490ef1533c9194"
 metafile = true
 
 [[files]]
+file = "mods/lib/coroutil.pw.toml"
+hash = "1037528e5df875b641882df021bbd64065ba5d54ce739827fe5ef3e35e45c9ee"
+metafile = true
+
+[[files]]
 file = "mods/lib/fabric-api.pw.toml"
 hash = "b846ac30b45fa1352e5fede367f2b17801af05c3906f3804cbc8cdcd99d78c09"
+metafile = true
+
+[[files]]
+file = "mods/lib/fabric-language-kotlin.pw.toml"
+hash = "2887ad6d551c31361ddadf28e4e0bc28166479473e093b2c237aba8a534cb111"
 metafile = true
 
 [[files]]
@@ -213,4 +228,19 @@ metafile = true
 [[files]]
 file = "mods/utility/mouse-tweaks.pw.toml"
 hash = "41ddb695776da2cf714699474ca9e6e3d61c9d68e6954ce680d54b648fce0622"
+metafile = true
+
+[[files]]
+file = "mods/utility/resourcify.pw.toml"
+hash = "0253bade3e74df27c138ac34dab26090c3fcc5c0a0986e9a14803bbd5229c97e"
+metafile = true
+
+[[files]]
+file = "mods/utility/show-me-your-skin.pw.toml"
+hash = "7a1681cd2211cb9179d25eb43ec2a45df852afb582a8f158e72112543ff45c0d"
+metafile = true
+
+[[files]]
+file = "mods/utility/what-are-they-up-to.pw.toml"
+hash = "2daf1d2ea9386b5d3a37fccd6c1d1d5b56c61ecdd9c60d90fc812148f0dc0f46"
 metafile = true
