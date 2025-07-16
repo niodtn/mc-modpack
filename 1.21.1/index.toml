@@ -6,8 +6,18 @@ hash = "1d75032662019a8532eb59e452d9ce83169ad5f68def6163ba61836ca16601b0"
 metafile = true
 
 [[files]]
+file = "mods/aesthetics/astrocraft.pw.toml"
+hash = "744d2f7ea376ae8c89b411fd358618e55fc689ccbe341465be57e2ac2c973652"
+metafile = true
+
+[[files]]
 file = "mods/aesthetics/axolotl-buckets.pw.toml"
 hash = "0fab62bdc739a1e0a20d3918c4dc478c10ecc6e0806b88d5a64906ebdc73c4fc"
+metafile = true
+
+[[files]]
+file = "mods/aesthetics/bettersmithingtable.pw.toml"
+hash = "d47f2c59248f9f4e677917fc1d5fae36990d27215a07446b236351172d2514f2"
 metafile = true
 
 [[files]]
@@ -21,6 +31,11 @@ hash = "6a08408df1770ae4162e109abba21e3c2ece46290ceb8d60c61b58c35a90e2de"
 metafile = true
 
 [[files]]
+file = "mods/aesthetics/flow.pw.toml"
+hash = "e230be0771bc96a48970279b40a74a18a3ded0c5c6cc33251bb480ecb41b96dd"
+metafile = true
+
+[[files]]
 file = "mods/aesthetics/seamless-loading-screen.pw.toml"
 hash = "347857ad5c236f5af6c432171b3cb17d2b1c441b180a1284faf69a5e26a4c8e5"
 metafile = true
@@ -31,6 +46,11 @@ hash = "7a1681cd2211cb9179d25eb43ec2a45df852afb582a8f158e72112543ff45c0d"
 metafile = true
 
 [[files]]
+file = "mods/csearcher.pw.toml"
+hash = "e7b8708e98d9b657e1a72e99431cf4da8592381a4cb20f3de7b802d09bba1adf"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "15f5068116d9bf87e7f711a2cd9139d9eb66d83e712172d95bb2bea5167d43dd"
 metafile = true
@@ -38,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
+metafile = true
+
+[[files]]
+file = "mods/lib/architectury-api.pw.toml"
+hash = "fd642d339ab238cc0bb86efa0cc97b2075365d21947b5086246f1770d567a597"
 metafile = true
 
 [[files]]
@@ -261,11 +286,6 @@ hash = "e3b9a5b946fac5d1a5f229ab0fbc05ec2309cdd4e55b1a6efb55ffa59a0b05eb"
 metafile = true
 
 [[files]]
-file = "mods/ui/flow.pw.toml"
-hash = "e230be0771bc96a48970279b40a74a18a3ded0c5c6cc33251bb480ecb41b96dd"
-metafile = true
-
-[[files]]
 file = "mods/ui/modmenu.pw.toml"
 hash = "084967dc59a0a172aba37278d2084a21c7e5ad4a5fbd5bfc40dcb013335596a7"
 metafile = true
@@ -278,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/ui/shulkerboxtooltip.pw.toml"
 hash = "358cfa1e694c326561c1286840d16f735b06a2ef057841e3bead226af60de16a"
+metafile = true
+
+[[files]]
+file = "mods/utility/anvil-restoration.pw.toml"
+hash = "0e2d4d95d5a0464e0486c1403dcbb63189e85f99ed755826ee0ab650964c1db7"
 metafile = true
 
 [[files]]
@@ -318,6 +343,11 @@ metafile = true
 [[files]]
 file = "mods/utility/resourcify.pw.toml"
 hash = "0253bade3e74df27c138ac34dab26090c3fcc5c0a0986e9a14803bbd5229c97e"
+metafile = true
+
+[[files]]
+file = "mods/utility/screenshot-viewer.pw.toml"
+hash = "5cc8570c4888e6abea756659574ff12ea5111e1f2373e0d19f595897af28c31f"
 metafile = true
 
 [[files]]
