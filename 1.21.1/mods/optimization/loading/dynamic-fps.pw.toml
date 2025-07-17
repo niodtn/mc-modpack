@@ -1,5 +1,5 @@
 name = "Dynamic FPS"
-filename = "../dynamic-fps-3.9.5+minecraft-1.21.0-fabric.jar"
+filename = "../../dynamic-fps-3.9.5+minecraft-1.21.0-fabric.jar"
 side = "client"
 
 [download]
