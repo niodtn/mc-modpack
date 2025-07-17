@@ -1,0 +1,20 @@
+{
+  "count_libraries": false,
+  "count_hidden_mods": false,
+  "mods_button_style": "shrink",
+  "hide_mod_license": true,
+  "hide_badges": true,
+  "hide_mod_credits": true,
+  "easter_eggs": false,
+  "update_checker": false,
+  "button_update_badge": false,
+  "hidden_mods": [
+    "bookshelf",
+    "c2me",
+    "coroutil",
+    "libz",
+    "minecraft",
+    "trinkets",
+    "yosbr"
+  ]
+}

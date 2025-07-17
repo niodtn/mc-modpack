@@ -2,6 +2,8 @@ name = "Seamless Loading Screen "
 filename = "../seamless-loading-screen-2.2.1+1.21-fabric.jar"
 side = "client"
 
+# 멀티플레이에서도 보기 좋다면 남겨두기
+
 [download]
 url = "https://cdn.modrinth.com/data/TyTPFOiF/versions/jbi6tWhw/seamless-loading-screen-2.2.1%2B1.21-fabric.jar"
 hash-format = "sha512"

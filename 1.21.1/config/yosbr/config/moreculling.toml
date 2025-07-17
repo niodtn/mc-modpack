@@ -1,0 +1,6 @@
+useCustomItemFrameRenderer = false
+itemFrameLODRange = 128
+itemFrame3FaceCullingRange = 4.0
+leavesCullingMode = "CHECK"
+includeMangroveRoots = true
+endGatewayCulling = true

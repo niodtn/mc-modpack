@@ -15,11 +15,11 @@ telemetryOptInExtra:false
 onboardAccessibility:false
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
+key_key.clickthrough.toggle:key.keyboard.unknown
 key_key.csearcher.search_menu:key.keyboard.grave.accent
 key_key.csearcher.search_in_near_container:key.keyboard.unknown
+key_key.trade_cycling.cycle_trades:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
-key_key.clickthrough.toggle:key.keyboard.unknown
-key_key.trade_cycling.cycle_trades:key.keyboard.unknown
 soundCategory_music:0.1

@@ -1,0 +1,13 @@
+name = "NoRollback"
+filename = "../NoRollback 2.1 (1.13-1.21.7).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/K4Ytaql5/versions/Ih5O2srt/NoRollback%202.1%20%281.13-1.21.7%29.jar"
+hash-format = "sha512"
+hash = "ca47fb79205cb137a1f37130dd10199991ab74cf522d9a6015885b6621e1ae4c07ac8cf50ed3f960405b481feb4d2eca53029d5fdf9945c15f572a299c362d9a"
+
+[update]
+[update.modrinth]
+mod-id = "K4Ytaql5"
+version = "Ih5O2srt"

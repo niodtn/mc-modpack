@@ -2,8 +2,6 @@ name = "Tax Free Levels"
 filename = "../TaxFreeLevels-1.4.7-fabric-1.21.1.jar"
 side = "both"
 
-# 모루 레벨 제한 해제
-
 [download]
 url = "https://cdn.modrinth.com/data/jCBrrLTs/versions/PJV01Pls/TaxFreeLevels-1.4.7-fabric-1.21.1.jar"
 hash-format = "sha512"
