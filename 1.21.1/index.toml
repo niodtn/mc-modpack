@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/csearcher.json"
+hash = "fb88bd5a7569ebb06aac0b2a14401e8b6b38cf59ec1082749d439715bb7c6823"
+
+[[files]]
 file = "config/yosbr/config/fastquit.toml"
 hash = "1a1fe9c1aeb51e0d888239df1df60b948d131a0a1718fcb51aabda36770aad94"
 
@@ -33,6 +37,16 @@ file = "config/yosbr/options.txt"
 hash = "ec180ab7ffbe0d7a29c10c60e936bdce6a98c8da0cc4bb59f41fa6dd4c64522f"
 
 [[files]]
+file = "datapacks/compatible-protection-enchantments.pw.toml"
+hash = "6dbba30248defc81c740b93d5241f266618aebc6dfb9cd86461057743bd14f66"
+metafile = true
+
+[[files]]
+file = "datapacks/compatible-sword-enchantments.pw.toml"
+hash = "ef9a906d74aef2fb47470d7a65645608803d93baee4688a92c0df0646858ac0a"
+metafile = true
+
+[[files]]
 file = "mods/aesthetics/astrocraft.pw.toml"
 hash = "744d2f7ea376ae8c89b411fd358618e55fc689ccbe341465be57e2ac2c973652"
 metafile = true
@@ -50,6 +64,26 @@ metafile = true
 [[files]]
 file = "mods/aesthetics/sodium-core-shader-support.pw.toml"
 hash = "62dff96fd0e815bdc196999dbd5dae72c12436e52098921c9b02544906776761"
+metafile = true
+
+[[files]]
+file = "mods/compatible-sword-enchantments.pw.toml"
+hash = "91d0ca4a985c50c7b0a57e2539216bb26387678525eef8ec2484ee400f72efaf"
+metafile = true
+
+[[files]]
+file = "mods/enchant/beyondenchant.pw.toml"
+hash = "851f90f5ea246d70bfe5a2d104535235b5e337a5374c2d2768cf8ff953d8c80c"
+metafile = true
+
+[[files]]
+file = "mods/enchant/neoenchant.pw.toml"
+hash = "1785b743b1ebf2e251c18cc5629f540349c75d54513eed926613817a9425ce5d"
+metafile = true
+
+[[files]]
+file = "mods/enchant/soulbound-enchantment.pw.toml"
+hash = "c613c3448533fee2a1acdbfe3139ed97f464194dbc5a3502c9146d351310da52"
 metafile = true
 
 [[files]]
@@ -348,6 +382,11 @@ hash = "2fe25939e78d2d1e5ba1c62236e483f5c8e68b4dd904e95175f736d80131ec0d"
 metafile = true
 
 [[files]]
+file = "mods/utility/datapacks.pw.toml"
+hash = "f1d9c230fd580befc0fb1a9040278f584355d3153e01b553494046f2c9826d81"
+metafile = true
+
+[[files]]
 file = "mods/utility/keybind-fix-plus.pw.toml"
 hash = "d44d99fade302d9e42cfeeb1de7f6ae248899d9d4d73d255659ac281cd17b6e8"
 metafile = true
@@ -404,4 +443,4 @@ metafile = true
 
 [[files]]
 file = "todo.md"
-hash = "cdaae588c366e0a8bb24839749b6ff9faaad398018bac57cbf67c2b6b37ee968"
+hash = "7b4376fd1ca9cf85f48d946cc21a4ba9137d9c5e75edc81140b19666f0460748"

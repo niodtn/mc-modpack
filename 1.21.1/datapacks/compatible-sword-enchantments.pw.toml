@@ -1,0 +1,15 @@
+name = "Compatible Sword Enchantments"
+filename = "Compatible Sword Enchantments 1.21 - 1.21.3.zip"
+side = "both"
+
+# 날카로움 + 강타 + 살충 가능하게
+
+[download]
+url = "https://cdn.modrinth.com/data/5capB7yt/versions/jxLzIBC8/Compatible%20Sword%20Enchantments%201.21%20-%201.21.3.zip"
+hash-format = "sha512"
+hash = "a246ba060160bc52b60f4a1c669fda62f13dde3474cc076acb5e11c433cb7257589bb5480f8082cf42a254557fade87f3cfdaf64d7ef8d74ef88750436d5a3d7"
+
+[update]
+[update.modrinth]
+mod-id = "5capB7yt"
+version = "jxLzIBC8"
