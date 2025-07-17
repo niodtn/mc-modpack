@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "9928098e100ff0129641e4ae6b883376a9d31f622ff606027f82e66216c94e22"
+hash = "ab03e7c9705061a0b6e52a6bff3b343d3630cdb75e167d98b6d60afc81361e35"
 
 [[files]]
 file = "config/yosbr/config/configurable/bettertrims.json5"
@@ -77,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/aesthetics/trimmable-tools.pw.toml"
 hash = "0243ada79eb09915888199b5f580d3ff501432458950cf3fa212dcc659552bab"
+metafile = true
+
+[[files]]
+file = "mods/aesthetics/twod_projectiles.pw.toml"
+hash = "1f8c63fdca17249f08b806fb6ac4287626d1e0d401051b274c163236763612bc"
 metafile = true
 
 [[files]]
@@ -207,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/mechanism/enchant/soulbound-enchantment.pw.toml"
 hash = "90706baf2f1adc2e62ec66cdbd5883a174b749bcb064e4be49431d8be865d965"
+metafile = true
+
+[[files]]
+file = "mods/mechanism/enchant/universal-enchants.pw.toml"
+hash = "be02ad40dc98ec97854af082b064bed7dcb5bb7c0b41021eeadfd48ece0fbf7a"
 metafile = true
 
 [[files]]
@@ -405,6 +415,11 @@ hash = "f1d9c230fd580befc0fb1a9040278f584355d3153e01b553494046f2c9826d81"
 metafile = true
 
 [[files]]
+file = "mods/utility/dcch.pw.toml"
+hash = "4fa24e7d7ed60a1b954223d54507288726ee79e22f076c8abf690de7369ab00d"
+metafile = true
+
+[[files]]
 file = "mods/utility/keybind-fix-plus.pw.toml"
 hash = "d44d99fade302d9e42cfeeb1de7f6ae248899d9d4d73d255659ac281cd17b6e8"
 metafile = true
@@ -435,18 +450,8 @@ hash = "f6f1c4840e398d19bcf3839804dd256004761249d0673e837f6d425b892a48be"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better-lanterns.pw.toml"
-hash = "17ea105b98d79a0be6ce20da3304f9ed1398c5d9d3ad24cea2c914a109ede78e"
-metafile = true
-
-[[files]]
 file = "resourcepacks/energy-shaders-java.pw.toml"
 hash = "a07231026c9b64366232247ca4ac4884f4c47a9c07864f8db508e42aa2801c62"
-metafile = true
-
-[[files]]
-file = "resourcepacks/glowing-emissive-ores.pw.toml"
-hash = "d25faacc6d619067a956809fe35b06004549515f751ecc4d1ecb8a2fa922abf0"
 metafile = true
 
 [[files]]

@@ -3,7 +3,7 @@
 ## 인챈트
 https://hardels-organization.gitbook.io/voxel/enchantment
 
-- 수선 + 보호 가능
+- 수선 + 무한 가능
 - 칼의 인챈트 3개 가능
 - 갑옷의 인챈트 4개 가능
 
