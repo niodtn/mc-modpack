@@ -1,5 +1,5 @@
 name = "2D Projectiles ➵"
-filename = "twod_projectiles-fabric-1.0.2.jar"
+filename = "../twod_projectiles-fabric-1.0.2.jar"
 side = "client"
 
 [download]
