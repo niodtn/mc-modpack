@@ -1,5 +1,5 @@
 name = "Soulbound Enchantment"
-filename = "../soulbound-fabric-1.0.1+1.21.jar"
+filename = "../../soulbound-fabric-1.0.1+1.21.jar"
 side = "both"
 
 # 인챈트로 죽었을 때 잃지 않게

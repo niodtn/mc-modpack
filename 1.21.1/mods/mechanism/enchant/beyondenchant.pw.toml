@@ -1,5 +1,5 @@
 name = "BeyondEnchant"
-filename = "../beyondenchant-1.5.0.jar"
+filename = "../../beyondenchant-1.5.0.jar"
 side = "both"
 
 # 더 높아진 바닐라 인챈트 최대 레벨

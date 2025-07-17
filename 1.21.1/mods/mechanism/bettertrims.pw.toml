@@ -1,0 +1,13 @@
+name = "BetterTrims"
+filename = "../BetterTrims-3.2.8-fabric+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/98ytUvlc/versions/edyBtO5k/BetterTrims-3.2.8-fabric%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "5391e899702e5b906b38a59e6782bc97516f457f5cb66f180f5c5066ac8585b565bf355ea0269e1e8323f417b8f1f56d0f5ce55b2b39f0b7ad5542a203cf8e73"
+
+[update]
+[update.modrinth]
+mod-id = "98ytUvlc"
+version = "edyBtO5k"

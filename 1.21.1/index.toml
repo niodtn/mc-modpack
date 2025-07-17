@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "9928098e100ff0129641e4ae6b883376a9d31f622ff606027f82e66216c94e22"
+
+[[files]]
+file = "config/yosbr/config/configurable/bettertrims.json5"
+hash = "91ef46d81aaaad7eb1bccb14abc39362c44d5603e2605bf5b25985874c91c509"
+
+[[files]]
 file = "config/yosbr/config/csearcher.json"
 hash = "fb88bd5a7569ebb06aac0b2a14401e8b6b38cf59ec1082749d439715bb7c6823"
 
@@ -43,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "datapacks/compatible-sword-enchantments.pw.toml"
-hash = "ef9a906d74aef2fb47470d7a65645608803d93baee4688a92c0df0646858ac0a"
+hash = "48e5ad74b9e5e63f72f662575f5ecddf9676931399c2af6bc1b0e74a9df69e5d"
 metafile = true
 
 [[files]]
@@ -67,23 +75,8 @@ hash = "62dff96fd0e815bdc196999dbd5dae72c12436e52098921c9b02544906776761"
 metafile = true
 
 [[files]]
-file = "mods/compatible-sword-enchantments.pw.toml"
-hash = "91d0ca4a985c50c7b0a57e2539216bb26387678525eef8ec2484ee400f72efaf"
-metafile = true
-
-[[files]]
-file = "mods/enchant/beyondenchant.pw.toml"
-hash = "851f90f5ea246d70bfe5a2d104535235b5e337a5374c2d2768cf8ff953d8c80c"
-metafile = true
-
-[[files]]
-file = "mods/enchant/neoenchant.pw.toml"
-hash = "1785b743b1ebf2e251c18cc5629f540349c75d54513eed926613817a9425ce5d"
-metafile = true
-
-[[files]]
-file = "mods/enchant/soulbound-enchantment.pw.toml"
-hash = "c613c3448533fee2a1acdbfe3139ed97f464194dbc5a3502c9146d351310da52"
+file = "mods/aesthetics/trimmable-tools.pw.toml"
+hash = "0243ada79eb09915888199b5f580d3ff501432458950cf3fa212dcc659552bab"
 metafile = true
 
 [[files]]
@@ -119,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/lib/collective.pw.toml"
 hash = "7165acefce7c66b443efec5e49607fd173b30f57787ad26a78c08761c20063d2"
+metafile = true
+
+[[files]]
+file = "mods/lib/configurable.pw.toml"
+hash = "29068b34c9a6bcd8881b930d1aa57fb24caaab6bd6c64cb3ae2cb0e69df14380"
 metafile = true
 
 [[files]]
@@ -189,6 +187,26 @@ metafile = true
 [[files]]
 file = "mods/lib/yacl.pw.toml"
 hash = "1c495f25a763147e6c42e53691e8983d571fdf94b9e8e5833dffe5a5a0cc5c1b"
+metafile = true
+
+[[files]]
+file = "mods/mechanism/bettertrims.pw.toml"
+hash = "2ab2a1cf061bb331a129b026c054841f06542986fec66fe604df0a0a3dc84360"
+metafile = true
+
+[[files]]
+file = "mods/mechanism/enchant/beyondenchant.pw.toml"
+hash = "a13fbbfcb1a0fb256ac4995f08ae0abcb6f0140ebb746d285c50572c3fba8168"
+metafile = true
+
+[[files]]
+file = "mods/mechanism/enchant/neoenchant.pw.toml"
+hash = "faa2013100682ab45258d3769d69cf942844fc6cfe0e3d3c0f7d417d689c04c3"
+metafile = true
+
+[[files]]
+file = "mods/mechanism/enchant/soulbound-enchantment.pw.toml"
+hash = "90706baf2f1adc2e62ec66cdbd5883a174b749bcb064e4be49431d8be865d965"
 metafile = true
 
 [[files]]
