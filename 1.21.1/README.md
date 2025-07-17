@@ -3,6 +3,10 @@
 ## 인챈트
 https://hardels-organization.gitbook.io/voxel/enchantment
 
+- 수선 + 보호 가능
+- 칼의 인챈트 3개 가능
+- 갑옷의 인챈트 4개 가능
+
 ## 형판 효과
 아무 형판에 특정 재료를 사용하면 아래의 효과를 얻음
 
