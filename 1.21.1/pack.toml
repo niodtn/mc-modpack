@@ -1,12 +1,12 @@
 name = "1.21.1"
 author = "Niodtn"
-version = "0.0.1"
+version = "0.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "77ec177009707223496f70281e4a17d4e5e8ae76cbf95abf8707ba8865e6c3f6"
+hash = "bc43b3fe9dc073f46432bd3789b197ea361a659fba60703b15f117e96a5208b0"
 
 [versions]
 fabric = "0.16.14"

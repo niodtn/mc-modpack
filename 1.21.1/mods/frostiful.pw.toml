@@ -1,0 +1,13 @@
+name = "Frostiful"
+filename = "frostiful-2.2.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ae6qoBj3/versions/gPdPRcoB/frostiful-2.2.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "d39271a1cba75b217a1b8e8838bc49ae76cb977e8a98a8060120402ed712d7840e5c172257aee3077ec3588b5b14cf73146bea8902f56586874b7b5e982f5aed"
+
+[update]
+[update.modrinth]
+mod-id = "Ae6qoBj3"
+version = "gPdPRcoB"
