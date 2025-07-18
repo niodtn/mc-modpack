@@ -5,6 +5,7 @@
   },
   "default_packs": [
     "file/SodiumTranslations.zip",
+    "file/BACAP Language Pack 1.19.zip",
     "continuity:default",
     "continuity:glass_pane_culling_fix",
     "minecraft:supporteatinganimation"
@@ -13,9 +14,11 @@
     "hidden": [
       "high_contrast",
       "programmer_art",
+      "fabric",
       "continuity:default",
       "continuity:glass_pane_culling_fix",
-      "file/SodiumTranslations.zip"
+      "file/SodiumTranslations.zip",
+      "file/BACAP Language Pack 1.19.zip"
     ],
     "$$hidden": {
       "hidden": true

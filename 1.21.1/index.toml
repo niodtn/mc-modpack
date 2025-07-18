@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "ab03e7c9705061a0b6e52a6bff3b343d3630cdb75e167d98b6d60afc81361e35"
+hash = "e75dc9a5aa7a176af0791c6fe8677c19345a48e1d2e599f71605f2fc724840b9"
 
 [[files]]
 file = "config/yosbr/config/configurable/bettertrims.json5"
@@ -30,7 +30,7 @@ hash = "e4390495164ff2de7ff0138c2e7ade2d809fac0fa5c7fcaf409d3de5be2aabe0"
 
 [[files]]
 file = "config/yosbr/config/resourcepackoverrides.json"
-hash = "c99c8050a9d500229d1b05e2a1783daf9d52add364a8b7413d8efb7cdb24f465"
+hash = "171380ea04a2a87840898a03693da1d97f265e6093de985e346aa55a84cb97d1"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -42,7 +42,12 @@ hash = "bf0e20937eb08c8db531cda0f660d7f49a7be09366bd77af62c56c9396c5c053"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "ec180ab7ffbe0d7a29c10c60e936bdce6a98c8da0cc4bb59f41fa6dd4c64522f"
+hash = "9da14859688cf919510df065189449d1e61db7871be5d0ed24dffa45e78cd1ea"
+
+[[files]]
+file = "datapacks/blazeandcaves-advancements-pack.pw.toml"
+hash = "5c6a762d84b87b19b50e3e9ab89a0d0e446f7d915e9b1f7ee40379a90826e929"
+metafile = true
 
 [[files]]
 file = "datapacks/compatible-protection-enchantments.pw.toml"
@@ -355,6 +360,11 @@ hash = "b1128892a4e6789eade505db1186205873e576e4ecaea5402d892c52a369bccb"
 metafile = true
 
 [[files]]
+file = "mods/ui/better-advancements.pw.toml"
+hash = "046f810e1cf2fa0186c17f99255b421cb1cd3393e05f28487ae31ba5be784ed7"
+metafile = true
+
+[[files]]
 file = "mods/ui/clean-f3.pw.toml"
 hash = "8f8e246b91f159fead804648b3b27b0c115f4c1ed3da8582bd46ee11c09560f2"
 metafile = true
@@ -405,6 +415,11 @@ hash = "9deef8c28e33c0cec83883004a0ddb9d5243733bfd6c3d865a7881becfe3fa0a"
 metafile = true
 
 [[files]]
+file = "mods/utility/crawl.pw.toml"
+hash = "7b7a2fd996a5ebfbc66369476a518f742652c5adda411bc0becb43824dbae51a"
+metafile = true
+
+[[files]]
 file = "mods/utility/csearcher.pw.toml"
 hash = "2fe25939e78d2d1e5ba1c62236e483f5c8e68b4dd904e95175f736d80131ec0d"
 metafile = true
@@ -450,6 +465,11 @@ hash = "f6f1c4840e398d19bcf3839804dd256004761249d0673e837f6d425b892a48be"
 metafile = true
 
 [[files]]
+file = "resourcepacks/bacap-language-pack.pw.toml"
+hash = "d8e5749eaf56905aaafa25d90c186bff8cb5b09bb261a90b8b002955f1dcf06d"
+metafile = true
+
+[[files]]
 file = "resourcepacks/energy-shaders-java.pw.toml"
 hash = "a07231026c9b64366232247ca4ac4884f4c47a9c07864f8db508e42aa2801c62"
 metafile = true
@@ -466,4 +486,4 @@ metafile = true
 
 [[files]]
 file = "todo.md"
-hash = "7b4376fd1ca9cf85f48d946cc21a4ba9137d9c5e75edc81140b19666f0460748"
+hash = "05df2fba92b8f2cc1a63a9d0f793f79c7930f581ec1bb5df54945d68d263ab2b"
