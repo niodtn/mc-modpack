@@ -75,6 +75,21 @@ hash = "6abb3b1ffd62cc39509ec0cbf1376f6248c91b30515d02348c41fbaf651278d8"
 metafile = true
 
 [[files]]
+file = "mods/aesthetics/itemphysic-lite.pw.toml"
+hash = "046a398b92bdd1eef32d995dcadf753dff860801c0f1cef567502e8ebb1711d9"
+metafile = true
+
+[[files]]
+file = "mods/aesthetics/minecraft-cursor.pw.toml"
+hash = "889073486a76c001627699574a12231588cd02d509a0b3823d6fceb1d84ad43f"
+metafile = true
+
+[[files]]
+file = "mods/aesthetics/perception.pw.toml"
+hash = "eaaf74e95770f526d0f6b4017f8b4b5bae5ebdfc88c91d64be0d1b1ef1295fdb"
+metafile = true
+
+[[files]]
 file = "mods/aesthetics/sodium-core-shader-support.pw.toml"
 hash = "62dff96fd0e815bdc196999dbd5dae72c12436e52098921c9b02544906776761"
 metafile = true
@@ -135,6 +150,11 @@ hash = "1037528e5df875b641882df021bbd64065ba5d54ce739827fe5ef3e35e45c9ee"
 metafile = true
 
 [[files]]
+file = "mods/lib/creativecore.pw.toml"
+hash = "908defc0ee0224caeb12f2bdd461f0cfefa8d0b9673160a713b04a47973ebdde"
+metafile = true
+
+[[files]]
 file = "mods/lib/fabric-api.pw.toml"
 hash = "b846ac30b45fa1352e5fede367f2b17801af05c3906f3804cbc8cdcd99d78c09"
 metafile = true
@@ -162,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/lib/midnightlib.pw.toml"
 hash = "f1dd101af8cdff5eb9adeea5173887d4c4acb5dcab2569e55bf4bf56cd940f58"
+metafile = true
+
+[[files]]
+file = "mods/lib/octo-lib.pw.toml"
+hash = "2157ebadd152efec73ff65c9ebf2286357a0f9e6271fc4f1724f7f2f3700de4a"
 metafile = true
 
 [[files]]
@@ -222,6 +247,16 @@ metafile = true
 [[files]]
 file = "mods/mechanism/enchant/universal-enchants.pw.toml"
 hash = "be02ad40dc98ec97854af082b064bed7dcb5bb7c0b41021eeadfd48ece0fbf7a"
+metafile = true
+
+[[files]]
+file = "mods/mechanism/zombie-awareness.pw.toml"
+hash = "f97592fa13f16e8e3a544f2514c2c65e89a916e3d6f529e0d091733985477f18"
+metafile = true
+
+[[files]]
+file = "mods/omnidirectional-sound-(ods).pw.toml"
+hash = "3967859004074431f63407e942fa337cabd271bdde1a80c3cba6fb234d0583d7"
 metafile = true
 
 [[files]]
@@ -486,4 +521,4 @@ metafile = true
 
 [[files]]
 file = "todo.md"
-hash = "05df2fba92b8f2cc1a63a9d0f793f79c7930f581ec1bb5df54945d68d263ab2b"
+hash = "b27cd532f958774f2b4033dcb5ed3c2d1a8473575401b9028cd117706ad0d795"
