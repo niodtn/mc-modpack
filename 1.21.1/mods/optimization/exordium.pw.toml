@@ -1,0 +1,15 @@
+name = "Exordium"
+filename = "../exordium-fabric-1.4.1-mc1.21.jar"
+side = "client"
+
+# HUD 프레임 조절
+
+[download]
+url = "https://cdn.modrinth.com/data/DynYZEae/versions/itjAAfxl/exordium-fabric-1.4.1-mc1.21.jar"
+hash-format = "sha512"
+hash = "59411a73be7e56ef4020e4350012d54ba88a30df5ad6687c1d09efad1e2628ed6006f1149b07fba08895d53e083dea24b085899fb8f7adfe29fc43e48d1a8b80"
+
+[update]
+[update.modrinth]
+mod-id = "DynYZEae"
+version = "itjAAfxl"

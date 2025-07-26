@@ -1,0 +1,15 @@
+name = "Soulbound Enchantment"
+filename = "../../soulbound-fabric-1.0.1+1.21.jar"
+side = "both"
+
+# 인챈트로 죽었을 때 잃지 않게
+
+[download]
+url = "https://cdn.modrinth.com/data/MmUmcwom/versions/mVmrAF9R/soulbound-fabric-1.0.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "e2da604eeb8250849e80c82fea7146a1ad1d1b18d3cc296f6f80e45391fc701c8870526235efa2d7e46187bda78c5ef1a513960a5f0b35b7bc00bf17dfa23869"
+
+[update]
+[update.modrinth]
+mod-id = "MmUmcwom"
+version = "mVmrAF9R"

@@ -1,0 +1,13 @@
+name = "Night Vision Shaders"
+filename = "Night Vision Shaders [Java] v. 1.0.6.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XuGx9Ezb/versions/ncbWbffp/Night%20Vision%20Shaders%20%5BJava%5D%20v.%201.0.6.zip"
+hash-format = "sha512"
+hash = "443ad64b7b6e48acc9fd22cfd9097463f78b62544a41cc99da00402b2e5458754c61b42a518e79908fefa3676aa15f9d853694f03cf78ab6f892a9650983ad02"
+
+[update]
+[update.modrinth]
+mod-id = "XuGx9Ezb"
+version = "ncbWbffp"

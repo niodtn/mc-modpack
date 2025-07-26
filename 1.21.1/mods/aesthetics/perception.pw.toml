@@ -1,0 +1,13 @@
+name = "Perception"
+filename = "../Perception-FABRIC-0.1.4+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/P8STLvzB/versions/Vr8MMvd1/Perception-FABRIC-0.1.4%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "090ca98bccc1362060011aa5416dce2097fdc3873f6dcd1d89ebb700837499545daa86f482d46585b084f67ebc57ef07182e10353afb15b398e2cc2287bc1d89"
+
+[update]
+[update.modrinth]
+mod-id = "P8STLvzB"
+version = "Vr8MMvd1"

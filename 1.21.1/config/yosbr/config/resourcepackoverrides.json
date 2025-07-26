@@ -1,0 +1,27 @@
+{
+  "schema_version": "2",
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "default_packs": [
+    "file/SodiumTranslations.zip",
+    "file/BACAP Language Pack 1.19.zip",
+    "continuity:default",
+    "continuity:glass_pane_culling_fix",
+    "minecraft:supporteatinganimation"
+  ],
+  "pack_overrides": {
+    "hidden": [
+      "high_contrast",
+      "programmer_art",
+      "fabric",
+      "continuity:default",
+      "continuity:glass_pane_culling_fix",
+      "file/SodiumTranslations.zip",
+      "file/BACAP Language Pack 1.19.zip"
+    ],
+    "$$hidden": {
+      "hidden": true
+    }
+  }
+}
