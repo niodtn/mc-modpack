@@ -1,0 +1,31 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "c45656db928ed544c927449b5ceac0feef9488b0ea4154cab9199b37817cd4d5"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+metafile = true

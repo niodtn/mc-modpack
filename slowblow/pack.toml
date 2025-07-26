@@ -1,0 +1,13 @@
+name = "Slowblow"
+author = "Niodtn"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5ead17d942d90feb3d1fe32831f759442aeacffab117d2da8fa8c09cce53e288"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.1"
