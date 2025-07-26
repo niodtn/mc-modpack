@@ -1,31 +1,52 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "c45656db928ed544c927449b5ceac0feef9488b0ea4154cab9199b37817cd4d5"
+file = "config/options.txt"
+hash = "9da14859688cf919510df065189449d1e61db7871be5d0ed24dffa45e78cd1ea"
+
+[[files]]
+file = "config/yosbr/modmenu.json"
+hash = "1ec4490a5e00572d122b60bc34eb1d269b3f0a294d5a20ae0feb89a21291c26a"
+
+[[files]]
+file = "config/yosbr/sodium-extra-options.json"
+hash = "03cf47ab4aa75e9314bd8d321f9aac0579f07e23df618e3a38d875f93f14934a"
+
+[[files]]
+file = "config/yosbr/sodium-options.json"
+hash = "bf0e20937eb08c8db531cda0f660d7f49a7be09366bd77af62c56c9396c5c053"
+
+[[files]]
+file = "mods/library/fabric-api.pw.toml"
+hash = "add4bad3897ecd1d628d4c828d16bd3ce71dd16c4ba0676e5fe05ada1cd0e765"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
-hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+file = "mods/library/placeholder-api.pw.toml"
+hash = "b16669b3c389cd19da6f5f4a76999067b5a5cef6acaad75908662d0f99e6e407"
 metafile = true
 
 [[files]]
-file = "mods/placeholder-api.pw.toml"
-hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
+file = "mods/optimization/sodium-extra.pw.toml"
+hash = "114c0ebfa1bc13a5135bbbe378039cee915d82cc5ebeca36ff7d8794ba06c3bd"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+file = "mods/optimization/sodium.pw.toml"
+hash = "ecb648fc3fc4bfc87b9d6e7121d4319ca63cd839bca0f0b8df98fedad2a9ade0"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
+file = "mods/ui/modmenu.pw.toml"
+hash = "084967dc59a0a172aba37278d2084a21c7e5ad4a5fbd5bfc40dcb013335596a7"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+file = "mods/ui/reeses-sodium-options.pw.toml"
+hash = "9491966b3d08564372c235d8b61bc583e4df933d062e9d41865635739a6cf2ac"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
