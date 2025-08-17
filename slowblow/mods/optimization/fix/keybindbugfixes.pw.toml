@@ -1,0 +1,13 @@
+name = "Keybind Bug Fixes"
+filename = "../../keybindbugfixes-1.2.4+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S0jya84n/versions/MxoHtvpG/keybindbugfixes-1.2.4%2B1.21.jar"
+hash-format = "sha512"
+hash = "fa3a8a83fa1d7d2fa28e2a46d879bd2ed7a350bf98ac478dfb974bbd93346308cd45c2996200e419b1bc9d3e5b1e2aed6bb628e18e504d418d1e385734bebde6"
+
+[update]
+[update.modrinth]
+mod-id = "S0jya84n"
+version = "MxoHtvpG"
