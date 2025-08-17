@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/optimizations/entityculling.pw.toml"
-hash = "f5471dc4f4e4d94147dd32ae556008e2244e535d8741b7fe4fd94fa71fb423d7"
+hash = "72ebc6529ecd144914ba42c9ca83c7c828f7fdd98310cd51a2a27de603beb4c7"
 metafile = true
 
 [[files]]
@@ -177,6 +177,16 @@ metafile = true
 [[files]]
 file = "mods/tool-belt.pw.toml"
 hash = "aedf2d63eac9d47f5097bf5472e2f67bf7b2cf12d1ad6719e35e082cbd7acd5c"
+metafile = true
+
+[[files]]
+file = "mods/vics-point-blank-default-auto-mode.pw.toml"
+hash = "997d2dc6b1c64afdd80b075a2ed895099d80a5aeff7a3fb9630f66d8ce5930f7"
+metafile = true
+
+[[files]]
+file = "mods/vics-point-blank-interaction.pw.toml"
+hash = "1ededfe40daf3818040c9d55e8781b8b97e20c51c178b590331a7aa678eb8e02"
 metafile = true
 
 [[files]]

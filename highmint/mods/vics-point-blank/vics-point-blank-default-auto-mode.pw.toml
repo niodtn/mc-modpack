@@ -1,0 +1,13 @@
+name = "Vic's Point Blank - Default Auto Mode"
+filename = "../vics_pb_autodefault-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9228578796052846db0d1d26603658c8877a2b7f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6789083
+project-id = 1310217
