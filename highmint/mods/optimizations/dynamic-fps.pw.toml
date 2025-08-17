@@ -1,5 +1,5 @@
 name = "Dynamic FPS"
-filename = "dynamic-fps-3.9.5+minecraft-1.21.0-neoforge.jar"
+filename = "../dynamic-fps-3.9.5+minecraft-1.21.0-neoforge.jar"
 side = "both"
 
 [download]

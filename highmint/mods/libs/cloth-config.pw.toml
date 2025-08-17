@@ -1,5 +1,5 @@
 name = "Cloth Config API (Fabric/Forge/NeoForge)"
-filename = "cloth-config-15.0.140-neoforge.jar"
+filename = "../cloth-config-15.0.140-neoforge.jar"
 side = "both"
 
 [download]

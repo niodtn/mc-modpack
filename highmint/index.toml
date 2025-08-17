@@ -10,78 +10,13 @@ hash = "0fb40dd1f87cbafd29e4554bbe4e6fa5c22786a725ae93d8e146816de1a1bbfc"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
-metafile = true
-
-[[files]]
-file = "mods/balm.pw.toml"
-hash = "d9d36014e5764d21bbf65ca24c3182f8bf4ed781d7e08232c5cbcaa25197c5bb"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
 
 [[files]]
-file = "mods/coroutil.pw.toml"
-hash = "a489c33879941ccb524c52fb81927adf3d3c8b156064c7a5be5bf8dc8caf63c9"
-metafile = true
-
-[[files]]
-file = "mods/cupboard.pw.toml"
-hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
-metafile = true
-
-[[files]]
-file = "mods/curios.pw.toml"
-hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
-metafile = true
-
-[[files]]
 file = "mods/cut-through.pw.toml"
 hash = "1dc3ed614d1be444f0ed687ab40168437cef77f25a9ebfbdd2ac250de6da3d87"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "4fa1d6b802032c2335bd0f2263e2977b376fd22ee07dc5f57dae9797d0c267d3"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "c90d5e107972681f9fe4fdca74a18c460becb383ab1fa18da85a269d6992e2ad"
-metafile = true
-
-[[files]]
-file = "mods/ferritecore.pw.toml"
-hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
-metafile = true
-
-[[files]]
-file = "mods/fix-gpu-memory-leak.pw.toml"
-hash = "e70c20bf24819da470d25d8cfe9cd07d2fc4ace4de942e7bcd38f7a674a24b6c"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
-hash = "033965cc4d3b58e2765c3a712ca8a226663ffae25eee8d3b81f72ed84cc5e484"
-metafile = true
-
-[[files]]
-file = "mods/glitchcore.pw.toml"
-hash = "3d38d89c5adddec6a9c1352e3c4ced3f0c80639f1f11da237aac883e629998e8"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "4a86edd7760d87df421ffb0a37540944f5e3b63c4e7e1c367f32d0f31985c090"
 metafile = true
 
 [[files]]
@@ -95,13 +30,53 @@ hash = "6b3f722168fa57e23fca5441d9b74a11194d9252625d6bf0898c4d212f99380a"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "252659cbaad2f31f723bf31d8ede250dc4b9c821c469f47b77d74e23864b4b45"
+file = "mods/libs/architectury-api.pw.toml"
+hash = "fb5bec1abee990f5c788639ab1822b0d290d11a8bc59cd81473a3d306b2c0186"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
-hash = "d720ecbf6097102b3243462928c0453f1b4df24a6a0edfa57b83d655fdb2ef75"
+file = "mods/libs/balm.pw.toml"
+hash = "c8fbaf4729e9fdbd7d23ae4f2c3b7859ac93167b9690fefd9faf9661057c75a9"
+metafile = true
+
+[[files]]
+file = "mods/libs/cloth-config.pw.toml"
+hash = "8118e3b57a30061426a8374f910f012ccef34f64229269431b714f025dcd5c6d"
+metafile = true
+
+[[files]]
+file = "mods/libs/coroutil.pw.toml"
+hash = "e113d04e6e823d44c622dc47dc26e559a6642ab5df6e0b8561ac5b42a0751a33"
+metafile = true
+
+[[files]]
+file = "mods/libs/cupboard.pw.toml"
+hash = "9bb4e481a2a0d6c9c928785a4b74c2f25c97652d87664686cfc0959c10ecbc4b"
+metafile = true
+
+[[files]]
+file = "mods/libs/curios.pw.toml"
+hash = "20c2cb39b3a40e431bca4e0573675d7565e274d0f18052939377fc39deae3d98"
+metafile = true
+
+[[files]]
+file = "mods/libs/geckolib.pw.toml"
+hash = "35b33200d87d738df414ae9ec9cf884c030281dc750685b6aa948e010370d535"
+metafile = true
+
+[[files]]
+file = "mods/libs/glitchcore.pw.toml"
+hash = "901eddf0271c9c319cace2dc2c60198b13c3f1159f6f90090b5032e65fe32f54"
+metafile = true
+
+[[files]]
+file = "mods/libs/puzzles-lib.pw.toml"
+hash = "be0b8aeea04666e84209e882f86ac5b2dc78951b167f40c2ac41e2b8e6ed938a"
+metafile = true
+
+[[files]]
+file = "mods/libs/searchables.pw.toml"
+hash = "1afa50dda0425cf722d0901f244f1ef7dceb74f73a64a021c34e026a720e5b3d"
 metafile = true
 
 [[files]]
@@ -110,18 +85,43 @@ hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "c39f473bc613a79aaf8717ced14f9e081451118cd53521ac5d6e6cdd469a3f59"
+file = "mods/optimizations/dynamic-fps.pw.toml"
+hash = "6e5a92674f310eeac008d7add0b5f4a58b4d72d050c04f1ee73bf858a37422f8"
 metafile = true
 
 [[files]]
-file = "mods/puzzles-lib.pw.toml"
-hash = "cedad7783a39b743dee74a7bb4035dc865e9e85c656468314b642c55f1f0e97d"
+file = "mods/optimizations/entityculling.pw.toml"
+hash = "f5471dc4f4e4d94147dd32ae556008e2244e535d8741b7fe4fd94fa71fb423d7"
 metafile = true
 
 [[files]]
-file = "mods/searchables.pw.toml"
-hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
+file = "mods/optimizations/ferritecore.pw.toml"
+hash = "0ab9af232c853825a4fa6c5b2e24a141f3f296c6493722e188b47bf5e7566e73"
+metafile = true
+
+[[files]]
+file = "mods/optimizations/fix-gpu-memory-leak.pw.toml"
+hash = "5750ba9c2ca6eaf790ff3e20c0a3f91562c3be68e9976f44bbc911b6fea17772"
+metafile = true
+
+[[files]]
+file = "mods/optimizations/immediatelyfast.pw.toml"
+hash = "c0e5a98716286889686d8f3189864b1cc8634cba2eaf20a1d572ac67b52f3502"
+metafile = true
+
+[[files]]
+file = "mods/optimizations/modernfix.pw.toml"
+hash = "188fd8d0e490a325a0882907404641c496e09fc414bcb2cd3d5e8dc2d54ed9d9"
+metafile = true
+
+[[files]]
+file = "mods/optimizations/moreculling.pw.toml"
+hash = "936d0dbf0e4a06abf6d9d37c42f927aab99659a7675aae349568698a7a9c47cb"
+metafile = true
+
+[[files]]
+file = "mods/optimizations/noisium.pw.toml"
+hash = "9ac78299e9bd878214df163df3d5f9f3a3497496bedc5cd437783c0a51dccd20"
 metafile = true
 
 [[files]]

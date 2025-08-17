@@ -1,5 +1,5 @@
 name = "fix GPU memory leak[Forge/Fabric]"
-filename = "gpumemleakfix-1.21-1.8.jar"
+filename = "../gpumemleakfix-1.21-1.8.jar"
 side = "both"
 
 [download]

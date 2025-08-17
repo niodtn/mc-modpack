@@ -1,5 +1,5 @@
 name = "GeckoLib"
-filename = "geckolib-neoforge-1.21.1-4.7.6.jar"
+filename = "../geckolib-neoforge-1.21.1-4.7.6.jar"
 side = "both"
 
 [download]
