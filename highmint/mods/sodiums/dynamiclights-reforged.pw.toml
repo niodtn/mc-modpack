@@ -1,5 +1,5 @@
 name = "Sodium/Embeddium Dynamic Lights"
-filename = "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"
+filename = "../sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar"
 side = "both"
 
 [download]

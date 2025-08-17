@@ -55,11 +55,6 @@ hash = "4fa1d6b802032c2335bd0f2263e2977b376fd22ee07dc5f57dae9797d0c267d3"
 metafile = true
 
 [[files]]
-file = "mods/dynamiclights-reforged.pw.toml"
-hash = "f619c1ed2e189f9d482d081411fccee4bd26c05cce52a5db914f1989303f080c"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "c90d5e107972681f9fe4fdca74a18c460becb383ab1fa18da85a269d6992e2ad"
 metafile = true
@@ -100,11 +95,6 @@ hash = "6b3f722168fa57e23fca5441d9b74a11194d9252625d6bf0898c4d212f99380a"
 metafile = true
 
 [[files]]
-file = "mods/magnesium-extras.pw.toml"
-hash = "af6b190e42b601eb0e2ca6fd58209f0242ab8c403996f1814956a6699dcd4f86"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "252659cbaad2f31f723bf31d8ede250dc4b9c821c469f47b77d74e23864b4b45"
 metafile = true
@@ -130,11 +120,6 @@ hash = "cedad7783a39b743dee74a7bb4035dc865e9e85c656468314b642c55f1f0e97d"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
@@ -145,18 +130,33 @@ hash = "eb438b9d4a49c0cc65560cdc295bf927cabc6f34319375a0cfbf3aece662add8"
 metafile = true
 
 [[files]]
-file = "mods/sodium-embeddium-options-mod-compat.pw.toml"
-hash = "a4f6a16457def1195d1d8ab781eb8deadbe72c8094336501496f2686a43e12dd"
+file = "mods/sodiums/dynamiclights-reforged.pw.toml"
+hash = "626d1247aae8fb224fb3693d461b92c2bb2c0abe422c811b1a319a3d5ddf5818"
 metafile = true
 
 [[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "05953528b550760efecc9834796d90177e09bd0d231ce814b43578e386468a73"
+file = "mods/sodiums/magnesium-extras.pw.toml"
+hash = "8f5d6abccf566b847ea3e8ff80a3b6e1ca70845091b94b46f88a4a6e970d090e"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+file = "mods/sodiums/reeses-sodium-options.pw.toml"
+hash = "ff9a544b9883fc89580c77a163741561786eede81b1373cbe05430fa2ae0b719"
+metafile = true
+
+[[files]]
+file = "mods/sodiums/sodium-embeddium-options-mod-compat.pw.toml"
+hash = "bfe3aedd5b1bb8a6029d5ea28262c1b3cbf6bfb0da6af805a447991d587ddce6"
+metafile = true
+
+[[files]]
+file = "mods/sodiums/sodium-options-api.pw.toml"
+hash = "5b364d37265fdce4e1fa35939eed0dbe0fd1526606aa53fcbd4553af1dc3ce57"
+metafile = true
+
+[[files]]
+file = "mods/sodiums/sodium.pw.toml"
+hash = "1a6faf819b621958e0bb347deff92c7fb5b484e3eb68f75c26c9980cb818a7ec"
 metafile = true
 
 [[files]]

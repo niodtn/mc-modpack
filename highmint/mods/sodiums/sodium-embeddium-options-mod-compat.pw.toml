@@ -1,5 +1,5 @@
 name = "Sodium/Embeddium Options Mod Compat"
-filename = "sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar"
+filename = "../sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar"
 side = "both"
 
 [download]
