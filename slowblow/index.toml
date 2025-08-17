@@ -1,0 +1,51 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "b3811242f9230b57ec349147921309a05e17b1d9866cb5197926495d8f8e9400"
+metafile = true
+
+[[files]]
+file = "mods/sodium-core-shader-support.pw.toml"
+hash = "00927d70d7b9276a7d02ac02eca3a93452b18c7cfa7aa985c31d9bb513c39163"
+metafile = true
+
+[[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "6475037d680289b4cf8bca4e375b3ecb9c9d6d90dd785b9bd085a42b9c84b795"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extras.pw.toml"
+hash = "247d0c160732895f6bc4a3cf0f0ccf74f55fc9ea67800e87495b8d817093fbbe"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "461adc31ce2b89cafc5ad2e846b482c68529231ac1d907e39ec62458b22e6b3e"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-mod-compat.pw.toml"
+hash = "93e9089139c4c2bae782d267bec3caf05a062e3b40ecd3eb277055cf90bebbe9"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "7d47e3d8bee4711ab37491e5e91bad186b6606ba560ab8a1dec753c157cf1151"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+metafile = true

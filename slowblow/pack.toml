@@ -1,12 +1,12 @@
-name = "Slowblow"
-author = "Niodtn"
+name = "slowblow"
+author = "niodtn"
 version = "2025-08-18"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "22e1a2813584ea2b38e046d552b3be7750f48b2720af490c7e40a798c8fb8896"
+hash = "6140482402882ab6e202a3c1d10ba16065476c9ce8f22f55b63c1cb5827a07c7"
 
 [versions]
 fabric = "0.17.2"
