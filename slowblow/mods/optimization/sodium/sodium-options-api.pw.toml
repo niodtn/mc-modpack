@@ -1,5 +1,5 @@
 name = "Sodium Options API"
-filename = "../sodiumoptionsapi-fabric-1.0.10-1.21.1.jar"
+filename = "../../sodiumoptionsapi-fabric-1.0.10-1.21.1.jar"
 side = "client"
 
 [download]

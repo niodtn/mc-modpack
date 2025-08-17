@@ -1,5 +1,5 @@
 name = "Language Reload"
-filename = "../language-reload-1.7.4+1.21.1.jar"
+filename = "../../language-reload-1.7.4+1.21.1.jar"
 side = "client"
 
 [download]

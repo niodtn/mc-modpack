@@ -1,5 +1,5 @@
 name = "Sodium Dynamic Lights"
-filename = "../sodiumdynamiclights-fabric-1.0.10-1.21.1.jar"
+filename = "../../sodiumdynamiclights-fabric-1.0.10-1.21.1.jar"
 side = "client"
 
 [download]

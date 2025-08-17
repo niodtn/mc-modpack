@@ -1,5 +1,5 @@
 name = "Sodium Options Mod Compat"
-filename = "../sodiumoptionsmodcompat-fabric-1.0.0-1.21.1.jar"
+filename = "../../sodiumoptionsmodcompat-fabric-1.0.0-1.21.1.jar"
 side = "client"
 
 [download]

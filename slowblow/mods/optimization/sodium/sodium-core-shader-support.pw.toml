@@ -1,5 +1,5 @@
 name = "Sodium Core Shader Support"
-filename = "sodiumcoreshadersupport-1.3.4-mc1.21.1-sodium0.6.13-fabric.jar"
+filename = "../../sodiumcoreshadersupport-1.3.4-mc1.21.1-sodium0.6.13-fabric.jar"
 side = "client"
 
 [download]

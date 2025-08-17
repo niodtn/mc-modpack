@@ -1,5 +1,5 @@
 name = "MacOS Input Fixes"
-filename = "../macos-input-fixes-1.9.jar"
+filename = "../../macos-input-fixes-1.9.jar"
 side = "client"
 
 [download]
