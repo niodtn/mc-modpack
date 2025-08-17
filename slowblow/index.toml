@@ -1,51 +1,122 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "b3811242f9230b57ec349147921309a05e17b1d9866cb5197926495d8f8e9400"
+file = "config/yosbr/config/csearcher.json"
+hash = "fb88bd5a7569ebb06aac0b2a14401e8b6b38cf59ec1082749d439715bb7c6823"
+
+[[files]]
+file = "config/yosbr/config/fastquit.toml"
+hash = "1a1fe9c1aeb51e0d888239df1df60b948d131a0a1718fcb51aabda36770aad94"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "3e95a6e59cc94b1048390cdf43b0f02f810c458bb267510c4193115350d1cbef"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "1ec4490a5e00572d122b60bc34eb1d269b3f0a294d5a20ae0feb89a21291c26a"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "e4390495164ff2de7ff0138c2e7ade2d809fac0fa5c7fcaf409d3de5be2aabe0"
+
+[[files]]
+file = "config/yosbr/config/resourcepackoverrides.json"
+hash = "171380ea04a2a87840898a03693da1d97f265e6093de985e346aa55a84cb97d1"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "7156e53f3279a31260124073aec2ebd8fcdae0f9b6ddb12843a0cfd97a53e02a"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "bf0e20937eb08c8db531cda0f660d7f49a7be09366bd77af62c56c9396c5c053"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "4868703761e6f170432f7e5323ba3ac78ccc70d3019549169097664dcc286e7b"
+
+[[files]]
+file = "datapacks/blazeandcaves-advancements-pack.pw.toml"
+hash = "5c6a762d84b87b19b50e3e9ab89a0d0e446f7d915e9b1f7ee40379a90826e929"
 metafile = true
 
 [[files]]
-file = "mods/sodium-core-shader-support.pw.toml"
+file = "mods/library/cloth-config.pw.toml"
+hash = "e6e95118697afbd3911c2288d9575922d27baa8305baf38927490ef1533c9194"
+metafile = true
+
+[[files]]
+file = "mods/library/fabric-api.pw.toml"
+hash = "672e9f76b8fe88f6a7e3f3d9b02f8c96908be65595c1d742ba140fc8f12c2737"
+metafile = true
+
+[[files]]
+file = "mods/library/txnilib.pw.toml"
+hash = "8741bb13886613596972e6fe0b3da793c3453f996af2642b012fdc972746438c"
+metafile = true
+
+[[files]]
+file = "mods/loading/fastquit.pw.toml"
+hash = "4387abb74dcfc93f9381c109fe76e7161ca7a91a1a642db4781b47f650c4ddab"
+metafile = true
+
+[[files]]
+file = "mods/loading/language-reload.pw.toml"
+hash = "d067722ee7d1cc4863e34a63151375f716d36fe7852023b94d5a2a6d06d8ade2"
+metafile = true
+
+[[files]]
+file = "mods/loading/rrls.pw.toml"
+hash = "59943cbd2c0e4e90f65002e17704bca571acb09b095fc69fdf430df4bfd42870"
+metafile = true
+
+[[files]]
+file = "mods/sodium/sodium-core-shader-support.pw.toml"
 hash = "00927d70d7b9276a7d02ac02eca3a93452b18c7cfa7aa985c31d9bb513c39163"
 metafile = true
 
 [[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "6475037d680289b4cf8bca4e375b3ecb9c9d6d90dd785b9bd085a42b9c84b795"
+file = "mods/sodium/sodium-dynamic-lights.pw.toml"
+hash = "e880e29c5e56a952188aaa103def6d7ca747642e7360d03206c5c04b9d4fa29c"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
+file = "mods/sodium/sodium-extra.pw.toml"
+hash = "114c0ebfa1bc13a5135bbbe378039cee915d82cc5ebeca36ff7d8794ba06c3bd"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extras.pw.toml"
-hash = "247d0c160732895f6bc4a3cf0f0ccf74f55fc9ea67800e87495b8d817093fbbe"
+file = "mods/sodium/sodium-extras.pw.toml"
+hash = "6fa897d99cdef72abe96828cf88e129b2606d3cbad082500d3afb7989fa1096b"
 metafile = true
 
 [[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "461adc31ce2b89cafc5ad2e846b482c68529231ac1d907e39ec62458b22e6b3e"
+file = "mods/sodium/sodium-options-api.pw.toml"
+hash = "0dca26f78c71849119037e92c1a484846e466fa8313afe8c9e3526ce69ee5b1f"
 metafile = true
 
 [[files]]
-file = "mods/sodium-options-mod-compat.pw.toml"
-hash = "93e9089139c4c2bae782d267bec3caf05a062e3b40ecd3eb277055cf90bebbe9"
+file = "mods/sodium/sodium-options-mod-compat.pw.toml"
+hash = "bfaf29cec53146c726ac52d6762c433ae1f810fa4d387e2fc83de1f18598195a"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
+file = "mods/sodium/sodium.pw.toml"
 hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
-metafile = true
-
-[[files]]
-file = "mods/txnilib.pw.toml"
-hash = "7d47e3d8bee4711ab37491e5e91bad186b6606ba560ab8a1dec753c157cf1151"
 metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bacap-language-pack.pw.toml"
+hash = "d8e5749eaf56905aaafa25d90c186bff8cb5b09bb261a90b8b002955f1dcf06d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "a6fb7aeeb780fd5cc931a503737a4e03eaa735e19dba5e0e2c7138020304eee2"
 metafile = true
