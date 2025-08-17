@@ -1,0 +1,13 @@
+name = "Highmint"
+author = "Niodtn"
+version = "2025-08-17"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fd730c94d310ca4c9785b38b6ec693cfd0d8d61ee742b6bba41be8d9015dd58f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.200"
