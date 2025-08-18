@@ -1,0 +1,13 @@
+name = "Sharper Tooltips"
+filename = "../sharper-tooltips-1.0.0+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hq0krNP5/versions/cqcfqh1E/sharper-tooltips-1.0.0%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "5509406ca8056346ae5e443204da79f8a012f8ba266eaa6fa6567cd2f8cd61f32eba91da38aa06f2dcf96f6f65dd7aa7318d823e7731a28cb0a3af175f8cad06"
+
+[update]
+[update.modrinth]
+mod-id = "hq0krNP5"
+version = "cqcfqh1E"
