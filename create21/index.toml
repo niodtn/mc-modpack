@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/extra/config/bettermodsbutton-client.toml"
+hash = "a2118d194ffe6b7db0b437d08ebdae53684c482ed6ab8c1f1ec6a97f07360b26"
+
+[[files]]
+file = "config/defaultoptions/extra/config/distraction_free_recipes-client.toml"
+hash = "c7afb2c18cef7d9702c3c3bfcbbbf412fe83fc9ffd7f072fe9763488c03d2ba7"
+
+[[files]]
+file = "config/defaultoptions/extra/config/moreculling.toml"
+hash = "794f82fcf3025391be52c2642163b4d1df4561107fc1058dbc4734e1bd3e4197"
+
+[[files]]
 file = "config/defaultoptions/extra/config/sodium-extra-options.json"
 hash = "2a9689510b4cb0b91918fe901a15b410717725da020b4310983eece6075e6670"
 
@@ -38,13 +50,28 @@ hash = "8950c7377844b642f7e6547b821691f395a6d3f90f8cf9a6d740e390792a2de3"
 metafile = true
 
 [[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "820727a4852072ccad40e99d05fdab98d7d5b214ef2fa1b01fc102408b0d322c"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "975f1280c712d2e86dd4ecddf89c516afbf3f1fb684499d3e5c71fc666c4888c"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "65026277699cc4b73c3d2c57ab7aad5173f161c0d6ff95e184911826387dbdec"
+metafile = true
+
+[[files]]
+file = "mods/fastquit-forge.pw.toml"
+hash = "574e4be5a4194cf6a44a5d064e3734dfbaac911c3caebfdf722ed7c35ff5215e"
 metafile = true
 
 [[files]]
@@ -100,4 +127,9 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
