@@ -1,0 +1,154 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/defaultoptions/extra/config/bettermodsbutton-client.toml"
+hash = "a2118d194ffe6b7db0b437d08ebdae53684c482ed6ab8c1f1ec6a97f07360b26"
+
+[[files]]
+file = "config/defaultoptions/extra/config/distraction_free_recipes-client.toml"
+hash = "c7afb2c18cef7d9702c3c3bfcbbbf412fe83fc9ffd7f072fe9763488c03d2ba7"
+
+[[files]]
+file = "config/defaultoptions/extra/config/moreculling.toml"
+hash = "794f82fcf3025391be52c2642163b4d1df4561107fc1058dbc4734e1bd3e4197"
+
+[[files]]
+file = "config/defaultoptions/extra/config/resourcepackoverrides.json"
+hash = "95d775f39e927191fe80e2c92d227bac50b16a3b6375678d07cd4d940a52d81f"
+
+[[files]]
+file = "config/defaultoptions/extra/config/sodium-extra-options.json"
+hash = "2a9689510b4cb0b91918fe901a15b410717725da020b4310983eece6075e6670"
+
+[[files]]
+file = "config/defaultoptions/extra/config/sodium-options.json"
+hash = "731fae924e66957932de4c89e8107ea0bc8ed8de7d5b476ed745bac4430f7336"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "34a75c5f4e34d094eae5ee3d88bb0e81ea48498e95810ee8ad243ada453b3467"
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "c51f5bc71fff2b0df7420b1c3df9f68cadb2572f6d8df239734db83c186b6715"
+metafile = true
+
+[[files]]
+file = "mods/better-mods-button.pw.toml"
+hash = "58f5fe07285002a0039caa955dba666b19394067761ca13b905c5b2c4570e90c"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "8950c7377844b642f7e6547b821691f395a6d3f90f8cf9a6d740e390792a2de3"
+metafile = true
+
+[[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "820727a4852072ccad40e99d05fdab98d7d5b214ef2fa1b01fc102408b0d322c"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "975f1280c712d2e86dd4ecddf89c516afbf3f1fb684499d3e5c71fc666c4888c"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "65026277699cc4b73c3d2c57ab7aad5173f161c0d6ff95e184911826387dbdec"
+metafile = true
+
+[[files]]
+file = "mods/fastquit-forge.pw.toml"
+hash = "574e4be5a4194cf6a44a5d064e3734dfbaac911c3caebfdf722ed7c35ff5215e"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "a55fe659bff4772919b0e3f7a64d79df053556cb16cf8e5a186e20d6b3945dc1"
+metafile = true
+
+[[files]]
+file = "mods/languagereloadunofficial.pw.toml"
+hash = "76b766b465351c6f1f57bbf68f72b66a59655d2e9a150c79b3f691d79ccbe1de"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "b78044fd79ce21750d05dc61b6aede33c4b87cdc16a26f5aff472d4f73ab623c"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "a6fb7aeeb780fd5cc931a503737a4e03eaa735e19dba5e0e2c7138020304eee2"
+metafile = true

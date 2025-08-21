@@ -1,0 +1,15 @@
+version:3955
+enableVsync:false
+fov:0.5
+guiScale:3
+maxFps:240
+narrator:0
+operatorItemsTab:true
+darkMojangStudiosBackground:true
+narratorHotkey:false
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+telemetryOptInExtra:false
+onboardAccessibility:false
+soundCategory_music:0.1
