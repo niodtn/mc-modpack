@@ -1,0 +1,13 @@
+name = "TooltipToggles"
+filename = "../tooltiptoggles-1.2.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4qdjOHhB/versions/B5AofYkE/tooltiptoggles-1.2.3.jar"
+hash-format = "sha512"
+hash = "d894e260e31eca13fd560b1d00e992da5c9e6e9304361b38abc973337d2d5e2d5d1f5974c29e820aa2ec70e0e6e995bb14ddf957ca7baa4fa7c235895c4a645d"
+
+[update]
+[update.modrinth]
+mod-id = "4qdjOHhB"
+version = "B5AofYkE"

@@ -1,9 +1,0 @@
-version:4325
-enableVsync:false
-simulationDistance:8
-skipMultiplayerWarning:true
-telemetryOptInExtra:false
-tutorialStep:none
-key_iris.keybind.reload:key.keyboard.unknown
-key_iris.keybind.toggleShaders:key.keyboard.unknown
-key_iris.keybind.shaderPackSelection:key.keyboard.unknown

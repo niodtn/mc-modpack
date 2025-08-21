@@ -1,0 +1,13 @@
+name = "Work Penalty"
+filename = "../work-penalty-1.0-SNAPSHOT.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jhvp6aFt/versions/Y1i5Y43n/work-penalty-1.0-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "8d2943d36466ff0e370aa5f81d3c98772dea44c69534e4baf6f940677ea3948ab06ff82d6b2f05de4e83cfb658a08505f187be1a80164b1252063da8ea6c33ec"
+
+[update]
+[update.modrinth]
+mod-id = "jhvp6aFt"
+version = "Y1i5Y43n"

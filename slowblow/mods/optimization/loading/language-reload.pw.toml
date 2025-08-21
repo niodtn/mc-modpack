@@ -2,9 +2,6 @@ name = "Language Reload"
 filename = "../../language-reload-1.7.4+1.21.1.jar"
 side = "client"
 
-# https://modrinth.com/mod/lazy-language-loader
-# 위의 모드 또는 이 모드를 써야함 둘 다 쓰는건 안됨
-
 [download]
 url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/fJxd1a9i/language-reload-1.7.4%2B1.21.1.jar"
 hash-format = "sha512"
