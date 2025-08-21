@@ -13,6 +13,10 @@ file = "config/defaultoptions/extra/config/moreculling.toml"
 hash = "794f82fcf3025391be52c2642163b4d1df4561107fc1058dbc4734e1bd3e4197"
 
 [[files]]
+file = "config/defaultoptions/extra/config/resourcepackoverrides.json"
+hash = "95d775f39e927191fe80e2c92d227bac50b16a3b6375678d07cd4d940a52d81f"
+
+[[files]]
 file = "config/defaultoptions/extra/config/sodium-extra-options.json"
 hash = "2a9689510b4cb0b91918fe901a15b410717725da020b4310983eece6075e6670"
 
@@ -85,6 +89,11 @@ hash = "a55fe659bff4772919b0e3f7a64d79df053556cb16cf8e5a186e20d6b3945dc1"
 metafile = true
 
 [[files]]
+file = "mods/languagereloadunofficial.pw.toml"
+hash = "76b766b465351c6f1f57bbf68f72b66a59655d2e9a150c79b3f691d79ccbe1de"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
@@ -115,6 +124,11 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "b78044fd79ce21750d05dc61b6aede33c4b87cdc16a26f5aff472d4f73ab623c"
 metafile = true
@@ -132,4 +146,9 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "a6fb7aeeb780fd5cc931a503737a4e03eaa735e19dba5e0e2c7138020304eee2"
 metafile = true
