@@ -1,0 +1,16 @@
+name = "Create 21"
+author = "niodtn"
+version = "2025-08-22"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "576d52b59d15f631986531e019035340b729c051bf7045def38c341709c61f66"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.203"
+
+[options]
+datapack-folder = "datapacks"

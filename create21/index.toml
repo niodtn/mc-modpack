@@ -1,0 +1,38 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/defaultoptions/extra/config/sodium-extra-options.json"
+hash = "2a9689510b4cb0b91918fe901a15b410717725da020b4310983eece6075e6670"
+
+[[files]]
+file = "config/defaultoptions/extra/config/sodium-options.json"
+hash = "731fae924e66957932de4c89e8107ea0bc8ed8de7d5b476ed745bac4430f7336"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "34a75c5f4e34d094eae5ee3d88bb0e81ea48498e95810ee8ad243ada453b3467"
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "c51f5bc71fff2b0df7420b1c3df9f68cadb2572f6d8df239734db83c186b6715"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "8950c7377844b642f7e6547b821691f395a6d3f90f8cf9a6d740e390792a2de3"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
