@@ -1,0 +1,8 @@
+{
+  "extra_settings": {
+    "reduce_resolution_on_mac": true,
+    "recipe_toast": false,
+    "system_toast": false,
+    "tutorial_toast": false
+  }
+}
