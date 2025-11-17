@@ -17,23 +17,33 @@ file = "configureddefaults/options.txt"
 hash = "f2d36b1de6278d27e57e6ece63b7bdf709e35ff4f74469dfd89dc1e7db9fb010"
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-hash = "66a784c8c78c18a37fd55cbaeb4d49de609647acc1ca8e47976808a02dab3d15"
-metafile = true
-
-[[files]]
 file = "mods/better-mods-button.pw.toml"
 hash = "58f5fe07285002a0039caa955dba666b19394067761ca13b905c5b2c4570e90c"
 metafile = true
 
 [[files]]
-file = "mods/combat-roll.pw.toml"
-hash = "ba1ce8187454b77c4ea8eaca43cfc46c92cbabab4e611f9501d047106da5ac7b"
+file = "mods/combat/better-combat.pw.toml"
+hash = "543a0d67c29ee86b649ff682e201154bcf914a319662730b838fee8ccb6b308f"
+metafile = true
+
+[[files]]
+file = "mods/combat/combat-roll.pw.toml"
+hash = "5578349690dfe343cebae4cba6578fcdda699b82d06d4473b15db61f7c01e819"
+metafile = true
+
+[[files]]
+file = "mods/combat/hackers-n-slashers.pw.toml"
+hash = "42caa1353123688fe48fcb1974d0b6914104c42f5ede32c2188f7149708c379a"
 metafile = true
 
 [[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "48cbc3da595efc9c3e04fb06bf9ba71861fcbd2e70dc1596a38ccb14b5179edc"
 metafile = true
 
 [[files]]
@@ -44,6 +54,26 @@ metafile = true
 [[files]]
 file = "mods/dependencies/playeranimator.pw.toml"
 hash = "55e613e2e7d982ffcba8d171fb510d85be1449848da89c0287542b4b076c6ac1"
+metafile = true
+
+[[files]]
+file = "mods/dependencies/yungs-api.pw.toml"
+hash = "9c6ae333892f38b64c135a05d10c0edaa0b419f08235735d392e926c3ae66a21"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-attack-indicator.pw.toml"
+hash = "5fd6cb9f5052b6b7891f2a4ab8c874f125a263a4b03cad5a3b2b3f80c57abc6a"
+metafile = true
+
+[[files]]
+file = "mods/gputape.pw.toml"
+hash = "c23254e855e6e646ad1f774f0d2871b3bebab2a1fe847385d586089baef49347"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic-lite.pw.toml"
+hash = "8d03c992c84b3041ff36a793a54f09ccd0985574b120c3de8e67263e0fa9fb04"
 metafile = true
 
 [[files]]
@@ -124,4 +154,19 @@ metafile = true
 [[files]]
 file = "mods/optimize/sodium/sodium.pw.toml"
 hash = "25a8f29884b5e934466c943d706a022b07119449a24390b04ba91fffbdb265e8"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
+metafile = true
+
+[[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visual-travelers-titles.pw.toml"
+hash = "8d9628d4203ba80fdd8679ba92802c9f12dc58b971716fc619a6b5962cf106c3"
 metafile = true

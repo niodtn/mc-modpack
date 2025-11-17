@@ -1,5 +1,5 @@
 name = "Better Combat"
-filename = "bettercombat-neoforge-2.2.5+1.21.1.jar"
+filename = "../bettercombat-neoforge-2.2.5+1.21.1.jar"
 side = "both"
 
 [download]
