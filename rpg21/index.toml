@@ -5,21 +5,24 @@ file = "configureddefaults/config/bettermodsbutton-client.toml"
 hash = "3f67f6df33c27dd7079cf140c516b29c17b6c687f782767db5266f1085d1589c"
 
 [[files]]
+file = "configureddefaults/config/hackersandslashers/client.json5"
+hash = "8522eabeba52f866b1deaea0b1f9d2e84afb9180a078a5a1a83362ec2bad7332"
+
+[[files]]
+file = "configureddefaults/config/resourcepackoverrides.json"
+hash = "afd9721a8f077018c3be52472f19e40f8e3793e0cba3ff4ce7cdb683819f45bd"
+
+[[files]]
 file = "configureddefaults/config/sodium-extra-options.json"
 hash = "7156e53f3279a31260124073aec2ebd8fcdae0f9b6ddb12843a0cfd97a53e02a"
 
 [[files]]
 file = "configureddefaults/config/sodium-options.json"
-hash = "bf0e20937eb08c8db531cda0f660d7f49a7be09366bd77af62c56c9396c5c053"
+hash = "5ba35e454c62b643800aeb9d5d8e93465977ef17d4a83f4f0fd85ada44558a8f"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "f2d36b1de6278d27e57e6ece63b7bdf709e35ff4f74469dfd89dc1e7db9fb010"
-
-[[files]]
-file = "mods/better-mods-button.pw.toml"
-hash = "58f5fe07285002a0039caa955dba666b19394067761ca13b905c5b2c4570e90c"
-metafile = true
+hash = "cb0b89be1c220175924681af6e24c38e30a05a8777ed19b0a00643bcfe87b99d"
 
 [[files]]
 file = "mods/combat/better-combat.pw.toml"
@@ -42,13 +45,13 @@ hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
 metafile = true
 
 [[files]]
-file = "mods/creativecore.pw.toml"
-hash = "48cbc3da595efc9c3e04fb06bf9ba71861fcbd2e70dc1596a38ccb14b5179edc"
+file = "mods/dependencies/cloth-config.pw.toml"
+hash = "795207b60f1b9194a6ca662bca42a2bb95fc6e5f55ebda486bf86b1c4f959109"
 metafile = true
 
 [[files]]
-file = "mods/dependencies/cloth-config.pw.toml"
-hash = "795207b60f1b9194a6ca662bca42a2bb95fc6e5f55ebda486bf86b1c4f959109"
+file = "mods/dependencies/creativecore.pw.toml"
+hash = "fd7234a439e9b0c7da5a651cb4628a8a6165500fd951976442b9cdec55d010ad"
 metafile = true
 
 [[files]]
@@ -57,18 +60,13 @@ hash = "55e613e2e7d982ffcba8d171fb510d85be1449848da89c0287542b4b076c6ac1"
 metafile = true
 
 [[files]]
+file = "mods/dependencies/puzzles-lib.pw.toml"
+hash = "270b644872a09d8ce78f8f55469aabd58d984090e21fd82f3592bbe3e9f177ba"
+metafile = true
+
+[[files]]
 file = "mods/dependencies/yungs-api.pw.toml"
 hash = "9c6ae333892f38b64c135a05d10c0edaa0b419f08235735d392e926c3ae66a21"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-attack-indicator.pw.toml"
-hash = "5fd6cb9f5052b6b7891f2a4ab8c874f125a263a4b03cad5a3b2b3f80c57abc6a"
-metafile = true
-
-[[files]]
-file = "mods/gputape.pw.toml"
-hash = "c23254e855e6e646ad1f774f0d2871b3bebab2a1fe847385d586089baef49347"
 metafile = true
 
 [[files]]
@@ -94,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/optimize/ferrite-core.pw.toml"
 hash = "f0d0bd44633b5661a65338f77629822bb007f2666c4b664f2971c0259c7b0413"
+metafile = true
+
+[[files]]
+file = "mods/optimize/gputape.pw.toml"
+hash = "72538014a02a81d905adced6998b3fe3f1dfb463419a90abfffd7d3805a8faf3"
 metafile = true
 
 [[files]]
@@ -162,11 +165,26 @@ hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
 metafile = true
 
 [[files]]
-file = "mods/travelers-titles.pw.toml"
-hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
+file = "mods/ui/better-mods-button.pw.toml"
+hash = "592ca9d5803b5754bcafdfd90dced7bbd22e3317368d3e69bf8a14531e190346"
 metafile = true
 
 [[files]]
-file = "resourcepacks/visual-travelers-titles.pw.toml"
-hash = "8d9628d4203ba80fdd8679ba92802c9f12dc58b971716fc619a6b5962cf106c3"
+file = "mods/ui/enhanced-attack-indicator.pw.toml"
+hash = "f6011a68a2008cfb2a2e0408367f5ec78a2c2e61b92ddb319e4eb587694f8d57"
+metafile = true
+
+[[files]]
+file = "mods/ui/pick-up-notifier.pw.toml"
+hash = "02bd20ee251b8be36bb4e0962f9dfdbdaf33364ca1bdd2ffc4d1b88e7823a8a8"
+metafile = true
+
+[[files]]
+file = "mods/ui/travelers-titles.pw.toml"
+hash = "d44a1219984553d28b99fd511db0dd794262965d9464d97f1e540feae2e0dcdb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "616d949ae5c0ce479f9fe651a5c559f2e02b22e5b5762230101bd2213c7aa8c1"
 metafile = true
