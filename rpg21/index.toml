@@ -1,16 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/bettermodsbutton-client.toml"
+file = "configureddefaults/config/bettermodsbutton-client.toml"
 hash = "3f67f6df33c27dd7079cf140c516b29c17b6c687f782767db5266f1085d1589c"
 
 [[files]]
-file = "config/sodium-extra-options.json"
+file = "configureddefaults/config/sodium-extra-options.json"
 hash = "7156e53f3279a31260124073aec2ebd8fcdae0f9b6ddb12843a0cfd97a53e02a"
 
 [[files]]
-file = "config/sodium-options.json"
+file = "configureddefaults/config/sodium-options.json"
 hash = "bf0e20937eb08c8db531cda0f660d7f49a7be09366bd77af62c56c9396c5c053"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "f2d36b1de6278d27e57e6ece63b7bdf709e35ff4f74469dfd89dc1e7db9fb010"
 
 [[files]]
 file = "mods/better-combat.pw.toml"
@@ -25,6 +29,11 @@ metafile = true
 [[files]]
 file = "mods/combat-roll.pw.toml"
 hash = "ba1ce8187454b77c4ea8eaca43cfc46c92cbabab4e611f9501d047106da5ac7b"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
 metafile = true
 
 [[files]]
@@ -116,7 +125,3 @@ metafile = true
 file = "mods/optimize/sodium/sodium.pw.toml"
 hash = "25a8f29884b5e934466c943d706a022b07119449a24390b04ba91fffbdb265e8"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "f2d36b1de6278d27e57e6ece63b7bdf709e35ff4f74469dfd89dc1e7db9fb010"
