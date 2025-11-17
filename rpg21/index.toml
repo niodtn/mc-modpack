@@ -1,0 +1,102 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/bettermodsbutton-client.toml"
+hash = "3f67f6df33c27dd7079cf140c516b29c17b6c687f782767db5266f1085d1589c"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "7156e53f3279a31260124073aec2ebd8fcdae0f9b6ddb12843a0cfd97a53e02a"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "bf0e20937eb08c8db531cda0f660d7f49a7be09366bd77af62c56c9396c5c053"
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "66a784c8c78c18a37fd55cbaeb4d49de609647acc1ca8e47976808a02dab3d15"
+metafile = true
+
+[[files]]
+file = "mods/better-mods-button.pw.toml"
+hash = "58f5fe07285002a0039caa955dba666b19394067761ca13b905c5b2c4570e90c"
+metafile = true
+
+[[files]]
+file = "mods/dependencies/cloth-config.pw.toml"
+hash = "795207b60f1b9194a6ca662bca42a2bb95fc6e5f55ebda486bf86b1c4f959109"
+metafile = true
+
+[[files]]
+file = "mods/dependencies/playeranimator.pw.toml"
+hash = "55e613e2e7d982ffcba8d171fb510d85be1449848da89c0287542b4b076c6ac1"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "mods/optimize/dynamic-fps.pw.toml"
+hash = "a7cc9c579d41aa54f88417267081da94363077e8448605be7d31b9b86c5aa812"
+metafile = true
+
+[[files]]
+file = "mods/optimize/entityculling.pw.toml"
+hash = "c7b3a2bde63a0fbaad0292dcc8758b0793fa5da89d819e366df024e0f0aca445"
+metafile = true
+
+[[files]]
+file = "mods/optimize/ferrite-core.pw.toml"
+hash = "f0d0bd44633b5661a65338f77629822bb007f2666c4b664f2971c0259c7b0413"
+metafile = true
+
+[[files]]
+file = "mods/optimize/immediatelyfast.pw.toml"
+hash = "a16d7cb0330ab28f5bf41d869a188e46f412198198f7aa23443aa6bdbc7cf3c4"
+metafile = true
+
+[[files]]
+file = "mods/optimize/lithium.pw.toml"
+hash = "5c725948735c54b151b5426ee461d525f740c659a702fdb9b1df66c87e05fa82"
+metafile = true
+
+[[files]]
+file = "mods/optimize/modelfix.pw.toml"
+hash = "d1dd526d03e7bf27dc7da7907782f0235d48993c117a40e95a81a9d727eba075"
+metafile = true
+
+[[files]]
+file = "mods/optimize/modernfix.pw.toml"
+hash = "513c6e3c8228b6baff9a49d198a44b34a1b2b9a80aebf30a3ed4be14c0fa949a"
+metafile = true
+
+[[files]]
+file = "mods/optimize/moreculling.pw.toml"
+hash = "e269042033531bd0d24175857fc96151db58b784c43e5e4bd0b420e69ff37ffb"
+metafile = true
+
+[[files]]
+file = "mods/optimize/rrls.pw.toml"
+hash = "a44eeca1c3212384923bb781d0b32f5f3743fef87e20e3902bf3bedf81561f87"
+metafile = true
+
+[[files]]
+file = "mods/optimize/sodium/reeses-sodium-options.pw.toml"
+hash = "f9dfa72dcd50997eb44e484d890253d02bf47f9741d4b36fbb7948754afca72b"
+metafile = true
+
+[[files]]
+file = "mods/optimize/sodium/sodium-extra.pw.toml"
+hash = "0861c9424b2f8ba0f97278ec683727b27d90b5baa10b5f4e563c45e2ac5996e2"
+metafile = true
+
+[[files]]
+file = "mods/optimize/sodium/sodium.pw.toml"
+hash = "25a8f29884b5e934466c943d706a022b07119449a24390b04ba91fffbdb265e8"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "f2d36b1de6278d27e57e6ece63b7bdf709e35ff4f74469dfd89dc1e7db9fb010"

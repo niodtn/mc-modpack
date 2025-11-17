@@ -1,0 +1,16 @@
+name = "RPG 21"
+author = "niodtn"
+version = "2025-11-18"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "518ab7eedfe9171be77a5436f58518d7d01cfa7b041eb04fafb753beab929e72"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.215"
+
+[options]
+datapack-folder = "datapacks"

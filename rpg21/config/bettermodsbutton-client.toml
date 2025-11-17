@@ -1,0 +1,4 @@
+main_menu_mods_button = "REPLACE_REALMS"
+pause_screen_mods_button = "REPLACE_AND_MOVE_LAN"
+collapse_branding = true
+mod_count_mode = "NONE"
