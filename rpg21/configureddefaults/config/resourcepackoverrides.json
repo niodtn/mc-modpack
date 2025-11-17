@@ -1,0 +1,20 @@
+{
+  "schema_version": 2,
+  "failed_reloads_per_session": 5,
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "default_packs": [
+    "file/SodiumTranslations.zip",
+    "file/Visual Titles 1.1.zip"
+  ],
+  "pack_overrides": {
+    "hidden": [
+      "file/SodiumTranslations.zip",
+      "file/Visual Titles 1.1.zip",
+      "high_contrast",
+      "programmer_art"
+    ],
+    "$$hidden": { "hidden": true }
+  }
+}
