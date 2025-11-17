@@ -25,6 +25,36 @@ file = "configureddefaults/options.txt"
 hash = "cb0b89be1c220175924681af6e24c38e30a05a8777ed19b0a00643bcfe87b99d"
 
 [[files]]
+file = "mods/apotheosis/apotheosis.pw.toml"
+hash = "4732ddefa14559d2dd53c73adae1b19e51830e8336a2e86f2d7e8fd232a4e18d"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis/apothic-attributes.pw.toml"
+hash = "83d24b4dc7a5120ab4106b08988b8730c213cb43b57a756820ed7b1f7b216678"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis/apothic-combat.pw.toml"
+hash = "1315acc57bf79307545868f8442270e0cc96cccc247f3627161db58b5c5b09c5"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis/apothic-enchanting.pw.toml"
+hash = "d9288dc36a3b00928350d85a72c45452bba912f9a9b8cd0842f6f23534f3dc3e"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis/apothic-spawners.pw.toml"
+hash = "71597646fa15b17ad92528723b29629493cd4079e6f3b4e22be90eca0b041307"
+metafile = true
+
+[[files]]
+file = "mods/chloride.pw.toml"
+hash = "fea72fc60fc9ff83090ede284a8fe65090cb2fed2fd4f697de5ebe6071ff5b41"
+metafile = true
+
+[[files]]
 file = "mods/combat/better-combat.pw.toml"
 hash = "543a0d67c29ee86b649ff682e201154bcf914a319662730b838fee8ccb6b308f"
 metafile = true
@@ -52,6 +82,16 @@ metafile = true
 [[files]]
 file = "mods/dependencies/creativecore.pw.toml"
 hash = "fd7234a439e9b0c7da5a651cb4628a8a6165500fd951976442b9cdec55d010ad"
+metafile = true
+
+[[files]]
+file = "mods/dependencies/patchouli.pw.toml"
+hash = "4857995410cbac95f3a8fa82f90d3913b4cd5f08b2768cb9afc923f464de2258"
+metafile = true
+
+[[files]]
+file = "mods/dependencies/placebo.pw.toml"
+hash = "642095d10b7afb612a191723a2b03ddb2e8edbf20dbf1e77c1c48d63461f819b"
 metafile = true
 
 [[files]]
@@ -165,6 +205,11 @@ hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
 metafile = true
 
 [[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
+metafile = true
+
+[[files]]
 file = "mods/ui/better-mods-button.pw.toml"
 hash = "592ca9d5803b5754bcafdfd90dced7bbd22e3317368d3e69bf8a14531e190346"
 metafile = true
@@ -172,11 +217,6 @@ metafile = true
 [[files]]
 file = "mods/ui/enhanced-attack-indicator.pw.toml"
 hash = "f6011a68a2008cfb2a2e0408367f5ec78a2c2e61b92ddb319e4eb587694f8d57"
-metafile = true
-
-[[files]]
-file = "mods/ui/pick-up-notifier.pw.toml"
-hash = "02bd20ee251b8be36bb4e0962f9dfdbdaf33364ca1bdd2ffc4d1b88e7823a8a8"
 metafile = true
 
 [[files]]
